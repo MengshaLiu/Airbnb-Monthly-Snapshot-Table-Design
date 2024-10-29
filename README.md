@@ -22,7 +22,7 @@ This Data model comprises of a central fact table, monthly_listing_summary_snaps
 
 ## Implementation on Google BigQuery
 #### Before Start
-
+The four .csv files inside the dataset folder need to be imported into BigQuery.  
 #### Create table and insert data for month_dim
 
 ```sql
