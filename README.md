@@ -21,7 +21,9 @@ This dataset is sourced from [Inside Airbnb](https://insideairbnb.com/get-the-da
 This Data model comprises of a central fact table, monthly_listing_summary_snapshots, which aggregate income and occupancy metrics monthly for each listing. Connecting this are four dimentional tables(listing_dim, host_dim, month_dim and neighbourhood_dim) offering contextual information on the listing, host, neighbourhood and month.
 
 ## Implementation on Google BigQuery
-#### create table and insert data for month_dim
+#### Before Start
+
+#### Create table and insert data for month_dim
 
 ```sql
 CREATE TABLE IF NOT EXISTS `my-data-project-65962.airbnb_listings_AU_2024.month_dim` (
@@ -38,7 +40,7 @@ SELECT
 FROM `my-data-project-65962.airbnb_listings_AU_2024.calendar` 
 GROUP BY year, month;
 ```
-#### create table and insert data for listing_dim
+#### Create table and insert data for listing_dim
 
 ``` sql
 CREATE TABLE IF NOT EXISTS `my-data-project-65962.airbnb_listings_AU_2024.listing_dim` (
@@ -109,7 +111,8 @@ SELECT
 FROM `my-data-project-65962.airbnb_listings_AU_2024.listings`;
 ```
 
-#### create table and insert data for host_dim
+#### Create table and insert data for host_dim
+```sql
 CREATE TABLE IF NOT EXISTS `my-data-project-65962.airbnb_listings_AU_2024.host_dim` (
   host_id INT64 NOT NULL,
   host_since DATE NOT NULL,
@@ -159,3 +162,79 @@ SELECT distinct host_id,
   host_verifications,
   host_has_profile_pic, 
   host_identity_verified FROM `my-data-project-65962.airbnb_listings_AU_2024.listings`;
+  ```
+#### Create table and insert data for neighbourhood_dim
+```sql
+CREATE OR REPLACE TABLE `my-data-project-65962.airbnb_listings_AU_2024.neighbourhood_dim`(
+  neighbourhood STRING,
+  city STRING,
+  country STRING,
+  PRIMARY KEY(neighbourhood) NOT ENFORCED
+);
+INSERT INTO `my-data-project-65962.airbnb_listings_AU_2024.neighbourhood_dim`(
+  neighbourhood,
+  city,
+  country
+)
+SELECT 
+  neighbourhood,
+  city,
+  country
+FROM `my-data-project-65962.airbnb_listings_AU_2024.neighbourhoods`;
+```
+#### Create table and insert data for monthly_listing_summary_snapshots
+``` sql
+CREATE OR REPLACE TABLE `my-data-project-65962.airbnb_listings_AU_2024.listing_monthly_summary_snapshots`(
+listing_id INT64 NOT NULL,
+host_id INT64 NOT NULL,
+neighbourhood STRING NOT NULL,
+month_id STRING NOT NULL,
+monthly_income FLOAT64,
+monthly_occupancy INT64,
+monthly_occupancy_rate FLOAT64,
+PRIMARY KEY(listing_id,host_id,neighbourhood, month_id) NOT ENFORCED,
+FOREIGN KEY(listing_id) REFERENCES airbnb_listings_AU_2024.listing_dim(listing_id) NOT ENFORCED,
+FOREIGN KEY(host_id) REFERENCES airbnb_listings_AU_2024.host_dim(host_id) NOT ENFORCED,
+FOREIGN KEY(neighbourhood) REFERENCES airbnb_listings_AU_2024.neighbourhood_dim(neighbourhood) NOT ENFORCED,
+FOREIGN KEY(month_id) REFERENCES airbnb_listings_AU_2024.month_dim(month_id) NOT ENFORCED
+);
+
+INSERT INTO my-data-project-65962.airbnb_listings_AU_2024.listing_monthly_summary_snapshots(
+  listing_id,
+  host_id,
+  neighbourhood,
+  month_id,
+  monthly_income,
+  monthly_occupancy,
+  monthly_occupancy_rate
+)
+with last_day AS (
+  SELECT 
+    EXTRACT(DAY FROM LAST_DAY(min(date))) AS last_day, 
+    EXTRACT(MONTH FROM date) as month, 
+    EXTRACT(YEAR FROM date) as year 
+  FROM `my-data-project-65962.airbnb_listings_AU_2024.calendar` 
+    GROUP BY month, year),
+listing_calendar as (
+  SELECT 
+    listing_id, 
+    EXTRACT(YEAR FROM date) AS year, 
+    EXTRACT(MONTH FROM date) AS month, 
+    COUNT(*) AS monthly_occupancy, 
+    SUM(price) AS monthly_income
+  FROM `my-data-project-65962.airbnb_listings_AU_2024.calendar` 
+  WHERE available = false
+  GROUP BY listing_id, year, month)
+SELECT 
+  lc.listing_id, 
+  lt.host_id,
+  lt.neighbourhood_cleansed AS neighbourhood,
+  CONCAT(lc.year,"-", lc.month) AS month_id,
+  lc.monthly_income, 
+  lc.monthly_occupancy, 
+  lc.monthly_occupancy/ld.last_day AS monthly_occupacy_rate 
+FROM listing_calendar lc
+LEFT JOIN last_day ld ON lc.month=ld.month AND lc.year=ld.year
+LEFT JOIN `my-data-project-65962.airbnb_listings_AU_2024.listings` lt ON lc.listing_id = lt.id
+'''
+
