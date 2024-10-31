@@ -1,0 +1,810 @@
+host_id,host_since,host_location,host_about,host_response_time,host_response_rate,host_acceptance_rate,host_is_superhost,host_neighbourhood,host_listings_count,host_verifications,host_has_profile_pic,host_identity_verified
+22581610,15/10/2014,"Grays Point, Australia",,N/A,,0,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+82431568,08/07/2016,"Hornsby, Australia",,N/A,,0,FALSE,,1,"['phone', 'work_email']",TRUE,TRUE
+256361237,17/04/2019,"Cronulla, Australia",,N/A,,0,FALSE,,1,['phone'],TRUE,TRUE
+306057105,01/11/2019,"Wolli Creek, Australia","Hi I’m Aagy
+Goodluck everyone ",N/A,,0,FALSE,,5,"['email', 'phone']",TRUE,TRUE
+371237344,09/10/2020,"Old Guildford, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+2600158,10/06/2012,"Rose Bay, Australia",,N/A,,50,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+4181146,18/11/2012,"Marrickville, Australia","Hi. I am a creative working in product development and love travel I lived abroad for 13 years before returning to Australia. 
+Living in the inner west there’s lots to do food markets, restaurants. Bars, breweries and more. 
+I have a Boston Terrier Vivienne who lives, works and sometimes travels with me and is a very good girl!",N/A,,82,TRUE,,1,"['phone', 'work_email']",TRUE,TRUE
+3589764,17/09/2012,"London, United Kingdom","I'm Erika and from Sydney, Australia! I do alot of travel here and there and love europe the most!",N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+5491745,16/03/2013,"Melbourne, Australia",Tasmanians. 2 small kids. ,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+107963111,21/12/2016,"Auckland, New Zealand",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+231364225,18/12/2018,"Bilgola Plateau, Australia",Happy go lucky!,N/A,,,FALSE,Avalon,1,"['email', 'phone']",TRUE,TRUE
+257098011,21/04/2019,"Beecroft, Australia",,N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+366448825,07/09/2020,"Waterloo, Australia","Hi my name is Peter
+
+Born in  NZ but have German parents. Currently live in Sydney Australia where I am also a Super Host as well as manage a Wine Bar and do support work in aged care. Love exploring new places, meeting new people and food and good wine.",N/A,,,,,4,"['email', 'phone']",TRUE,FALSE
+151039448,18/09/2017,"Fairlight, Australia",We are a travelling family who enjoy exploring and meeting people from all walks of life. ,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+4586871,04/01/2013,"Bondi, Australia",,N/A,,67,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+261114844,11/05/2019,"Collaroy Plateau, Australia","Hi I'm Hilary 
+I live with my husband James, and grown-up daughter, on a quiet street in Collaroy Plateau.  We live in a large well-furnished home, with lots of art, 10 minutes walk from the beach and beautiful lake. Our house is close to local shops (5 mins) and Cafes and convenient for regular public transport into Sydney, and to the Northern Beaches. We are also just a 5-minute walk from the RSL ANZAC village.  We look forward to meeting you.",N/A,,82,TRUE,,1,['phone'],TRUE,TRUE
+500730365,12/02/2023,"Homebush, Australia",,N/A,,88,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+12978693,10/03/2014,"Rose Bay, Australia",Hey my name is David... hosting a bedroom in a wonderful 2bed penthouse in rose bay,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+13517002,25/03/2014,"Killarney Heights, Australia",,N/A,,,FALSE,,3,"['email', 'phone', 'work_email']",TRUE,TRUE
+24428683,03/12/2014,"Erskine Park, Australia","We are an Indian family. You mostly find all the required items to cook. This is the new house giving the first time to air BnB. This house has 4 beds, and 2 baths including the hot water pool.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+60576404,27/02/2016,"Vaucluse, Australia",,N/A,,,FALSE,Vaucluse/Watsons Bay,1,"['email', 'phone']",TRUE,TRUE
+110485835,08/01/2017,"Gymea, Australia",Happy husband and father of two beautiful boys.,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+141577938,20/07/2017,"Rose Bay, Australia",,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,FALSE
+146702567,19/08/2017,"Burwood, Australia",nice ,N/A,,,FALSE,Burwood,1,"['email', 'phone']",TRUE,TRUE
+155587212,21/10/2017,"Jordan Springs, Australia",,N/A,,,FALSE,,5,"['email', 'phone']",TRUE,TRUE
+303368393,20/10/2019,"Pagewood, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+337682704,20/02/2020,"Mascot, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+176905051,06/03/2018,"Punchbowl, Australia","I'm a mature female, educated and self -employed and professional, Chinese background. I'm living in the property and have second bedroom prepared for rent to long or short stay people. 
+
+I like to travel myself  for business reason or for sight seeing reason which is always an exciting experience... . 
+
+hope your travel or stay will be smooth and comfortable.. ",N/A,,100,FALSE,Bankstown,1,"['email', 'phone']",TRUE,TRUE
+203586788,19/07/2018,"Newport, Australia","I moved to Newport 10 years ago from the country I absolutely love beach life and the Newport community.
+
+I am a mother of three children and grandmother of 6 soon to be 7.
+
+I work as a newborn night specialist in peoples homes which brings me great joy and satisfaction. I love to exercise and the outdoors, travel and entertain. 
+
+I adore my home and I’m excited to share it. I respect the importance of privacy and hope you relax the minute you walk through the door. ENJOY",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+2733553,25/06/2012,"Ultimo, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+88104207,05/08/2016,"Little Bay, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+153707420,08/10/2017,"Wingham, Australia","I am a 34 y.o. primary school teacher from regional N.S.W. now living and working in Eastern Suburbs of Sydney.  My interests include music, surfing, cycling and travelling.",N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+13797446,02/04/2014,"Paddington, Australia","I live in Paddington (two blocks from where I grew up!) and welcome guests to my apartment, a 5-minute walk away from my home. 
+
+I am close by, should you need anything - and very happy to make local recommendations - but the apartment is all yours when you stay there.",N/A,,40,,Paddington,2,"['email', 'phone', 'work_email']",TRUE,TRUE
+9493271,17/10/2013,"Narraweena, Australia","We are Sydney-siders, love hanging out at our local cafe and making the most of the stunning coast we live on. Both into travel and swapping travel stories, swimming, hiking and any other adventure-related activities. Also pretty adept at relaxing in front of a movie, the odd yoga class, and and long lunches with friends. Both psychologists - I (Karen) work in public health in an inner city hospital whereas Jay is running a tech start-up taking psychological tools into the corporate workplace. 
+
+We're busy but easy going, love meeting new people and learning new things. Guests are very welcome to join us for meals if our paths happen to cross but also happy for guests to do their own thing. 
+
+We're not really 'life motto' people, but we're big Mary Oliver fans. Reckon she captures it all pretty well with this question:
+""Tell me, what is it you plan to do with your one wild and precious life?"" ",N/A,,50,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+76202968,06/06/2016,"Queenscliff, Australia","Hello, I live a happy, healthy, travelers' lifestyle, early to bed early to rise most of the time. I like to explore new places meet new people and I do my best to exist peacefully.",N/A,,70,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10221379,24/11/2013,"Sawtell, Australia",,N/A,,92,FALSE,,1,['phone'],TRUE,TRUE
+8945736,19/09/2013,"Marrickville, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+21891107,28/09/2014,"Balmain, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+31163147,13/04/2015,"Capão da Canoa, Brazil",,N/A,,,FALSE,North Sydney,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+32300072,30/04/2015,"Bellevue Hill, Australia",Hi there!  My name is Samantha and I live near the best beach in the world!  Bondi Beach!  I work hard and play hard and adore my new home.  I hope you do too.  I am always available to answer any queries so please fire away!  Welcome! ,N/A,,,FALSE,Bellevue Hill,1,"['email', 'phone']",TRUE,TRUE
+51444515,15/12/2015,"North Sydney, Australia",We are available 24/7 to help you with anything.,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+75562167,03/06/2016,"Carlingford, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+100947231,23/10/2016,"Campbelltown, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+181384625,30/03/2018,"Warnervale, Australia",We r fun and outgoing.. my gf is Columbian and I'm Aussie.. kitten is 10weeks..,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+184700446,16/04/2018,United Kingdom,,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+234613676,05/01/2019,"Bondi Junction, Australia",,N/A,,,FALSE,Breakfast Point/Cabarita,1,"['email', 'phone']",TRUE,TRUE
+30195182,29/03/2015,"Caringbah, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+33285721,13/05/2015,"Greenwich, Australia","I am 30 year old Nurse , that loves her job . Loves a chat and drinking TEA x",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+52111220,23/12/2015,"Ryde, Australia",,N/A,,40,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+4214125,22/11/2012,"St Clair, Australia",Married with 3 adult chn.  We enjoy meeting new people and whilst our home is a shared space we hope to provide a welcoming environment for all who visit with us.  Our guests will have their own room.   Breakfast provided and access to kitchen.  ,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+23060769,28/10/2014,"Banksia, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+23632139,11/11/2014,"Clareville, Australia",,N/A,,,FALSE,Avalon,2,"['email', 'phone']",TRUE,TRUE
+24858991,15/12/2014,"North Bondi, Australia","Home is where my heart is and nothing makes me happier than spending time with my little tribe. We're lucky to have lived around the world but are happy to back in sunny Sydney for now. People, places and good design inspire me.  Fresh food and strong coffee keep me going.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+48834532,12/11/2015,"Lennox Head, Australia","I surf , I am super social and I get on with everyone! Love dogs and animals! 
+
+Live on the beach",N/A,,,FALSE,,2,"['email', 'phone', 'work_email']",TRUE,TRUE
+100075154,17/10/2016,"Woolooware, Australia",Female,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+101790146,30/10/2016,"Brisbane, Australia","Hi 
+
+I’m Tina. I love to travel, cook, explore new places for food and wine and relax and unwind in nature ☺️",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+148039280,28/08/2017,"Rosebery, Australia","Rosebery is a lovely suburb where located in east-south of Sydney. It's very close CBD about 6-7 km,  Coogee beach  and Centennial Park.
+
+This is two bedrooms apartment, I live in main bedroom and the other bedroom with it's own bathroom for the guests  1-2 persons only.
+
+The nice apartment building provides very impressive facilities such as 4 Gyms with 3 swimming pools, Yugo/dancing room, small convenience shop, hair cut and two  restaurants within the complex.
+
+There are many restaurants coffee shops and Woolworth + Cose supermarkets near by.
+
+The transport is very handy 343, 301... more buses and Green Square train station  
+is about 10 minutes walk away from home. 
+ 
+Welcome guests visit Sydney and stay at my home.",N/A,,,FALSE,Rosebery,1,"['email', 'phone']",TRUE,TRUE
+153850292,09/10/2017,"Mascot, Australia",,N/A,,,FALSE,Mascot,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+291778014,04/09/2019,"Campsie, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+302048284,13/10/2019,"Glebe, Australia",,N/A,,,FALSE,,9,"['email', 'phone']",TRUE,TRUE
+317897126,15/12/2019,"Urrao, Colombia",,N/A,,,FALSE,Surry Hills,2,['phone'],TRUE,TRUE
+372081522,15/10/2020,"Bilgola Plateau, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+306036802,01/11/2019,"Castle Hill, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",FALSE,TRUE
+15060472,03/05/2014,"Balgowlah, Australia","Hi there, we're a family of four with 2 kids (one boy and one girl) living in Sydney on the Northern Beaches near Manly. 
+
+Keen travelers, we've been to a number of countries enjoying the different cultures, customs and most and foremost food! 
+
+We spent a year traveling in Africa  (pre-kids) and managed to go through 39 countries over that period. Those days are behind us as we look forward to more comfortable traveling but still excited to hear about other people's adventures.
+
+We look forward to welcoming you in our house when we leave on our latest trip.",N/A,,0,FALSE,Balgowlah,1,"['email', 'phone']",TRUE,TRUE
+4900644,29/01/2013,"Paddington, Australia",,N/A,,25,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+376909128,24/11/2020,"Artarmon, Australia",,N/A,,33,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+231537656,19/12/2018,"Casuarina, Australia",,N/A,,67,TRUE,,2,"['email', 'phone']",TRUE,TRUE
+56431492,28/01/2016,"Cundumbul, Australia",,N/A,,75,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+193585992,05/06/2018,"Earlwood, Australia","Friendly outgoing respectful person, have had long and short time students for the past 20 years, and now have decided to join AnB. ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+498662457,30/01/2023,"Waitara, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+11111128,08/01/2014,"Curl Curl, Australia","I love travelling and meeting new people. I'm a plant biologist, runner and enjoying living by the ocean side. Living along the Spit to Manly walk is a real blessing. Walking to local coffee shops is also lovely. I've recently been to South Africa, Germany, Belgium, and New York, Wyoming, Montana, Colorado, Utah and New Mexico. I'm excited to hear where other people have been and listen to their stories. ",N/A,,100,FALSE,Balgowlah,2,"['email', 'phone', 'work_email']",TRUE,FALSE
+12594920,26/02/2014,"Saint Kilda East, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+22283266,08/10/2014,"Wolli Creek, Australia","I love dancing and pickleball for fitness and socialising.  Travel is my next passion and enjoy staying in air bnb as much as being an airbnb host. I prefer to travel without an agenda and love cruising. So far my favourite places I have visited are Lapland, Edinburgh,  Prague and Cyprus.
+I have met so many wonderful people in my travels and believe ""Your vibe attracts your tribe.""
+Hope to meet you in my travels or in my home.",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10918670,30/12/2013,"Curl Curl, Australia","I am a primary school teacher, with my 18 year old son.  We both are busy with work during the day. But love to relax at home on weekends. We’re easy going and love when guests like our space as much as we do. We’re happy to share our lovely corner of the world.",N/A,,71,TRUE,,2,"['email', 'phone']",TRUE,TRUE
+396020039,08/04/2021,"Glenorie, Australia",,N/A,,92,TRUE,,2,['phone'],TRUE,TRUE
+20293224,20/08/2014,"Palm Beach, Australia","Francoise grew up in a hotel- restaurant in Brittanny, France west coast where she learnt first hand about ""French hospitality""
+She is a keen decorator, collects and sells vintage French linen which she acquired while living between Brittany and Provence from early 2011 to end 2013
+Madge is her "" hearing dog"" and together they make quite an eccentric couple !!..
+Francoise is true to her roots by being very "" conviviale"" while sharing her beautiful homemade food  and bottle of French rose if you are lucky enough to be invited at her table !!..
+She could not live away from the sea, as she is convinced sea water runs thru her veins ...
+Francoise ran another B&B near Byron Bay for 3 years and loves being a hostess , she shared her time there between gardening and swimming",N/A,,94,TRUE,Palm Beach,1,"['email', 'phone']",TRUE,TRUE
+23839989,17/11/2014,"Darlinghurst, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+36044673,17/06/2015,"Larrakeyah, Australia",I’m a young professional living with my partner in Darwin. Seth and I love showing our guests around town and out bush. Enquire within.. ,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+216973022,24/09/2018,"Mellong, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,FALSE
+232284519,24/12/2018,"Mount Annan, Australia","Work in Horticulture, gym, camper trailing. Enjoy the beach, travelling in Australia or Overseas.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+346512981,17/05/2020,"Monterey, Australia",I am easy going fun and friendly but also like abit of privacy. ,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+167501027,13/01/2018,"Camperdown, Australia",,N/A,,100,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+369925291,30/09/2020,"Rose Bay, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+25240244,26/12/2014,"Dover Heights, Australia",,N/A,,13,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+35906329,15/06/2015,"Queens Park, Australia",,N/A,,50,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+397136129,15/04/2021,"Palm Beach, Australia",,N/A,,67,FALSE,,1,['phone'],TRUE,TRUE
+42939314,30/08/2015,"Auckland, New Zealand",,N/A,,75,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+27185115,03/02/2015,"Mona Vale, Australia","I am a young professional who loves travelling, socialising, cooking, hiking and soaking up the sun!!",N/A,,93,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+4276604,29/11/2012,"Tamarama, Australia","I am a local surfer and have lived in the area for over 20years. I run a advertising agency and I love travel and meeting new people from around the world.
+
+I believe Tamarama is one of the best places to live in Sydney. You are spoilt for choice. From restaurants, places to swim like the ocean pools, rock pools, beaches. Coastal walks its all on your doorstep. I look forward to meeting you and having you stay at our beach side home.",N/A,,,FALSE,Tamarama,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+18226665,16/07/2014,"Fairlight, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+28782043,04/03/2015,"Chatswood, Australia","* Bush walking
+*Watch movies
+*Coffee making and testing..
+",N/A,,,FALSE,Chatswood,1,"['email', 'phone']",TRUE,FALSE
+49102742,15/11/2015,"Saint Ives, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,FALSE
+91223365,22/08/2016,"Wattle Grove, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+170270115,27/01/2018,"New York, NY",,N/A,,,FALSE,Eastlakes,1,"['email', 'phone']",TRUE,TRUE
+254007808,08/04/2019,"Kingsgrove, Australia",,N/A,,,FALSE,Kingsgrove,1,"['email', 'phone']",TRUE,TRUE
+2486565,28/05/2012,"North Bondi, Australia",Love to travel with great company. Enjoy good food and being out and about.,N/A,,100,FALSE,North Bondi,1,"['email', 'phone']",TRUE,TRUE
+161234377,04/12/2017,"Canterbury, Australia",Honest and reliable.,N/A,,100,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+32803646,07/05/2015,"Northwood, Australia",,N/A,,0,FALSE,Lane Cove,6,"['email', 'phone']",TRUE,TRUE
+46592739,14/10/2015,"Haymarket, Australia","Education Counsellor, lives in Sydney",N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+12515546,23/02/2014,"Cronulla, Australia","Father of 2 young girls and keen cyclist.
+I am a professor at the most prestigious University in the Australia.
+
+",N/A,,20,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+20039367,14/08/2014,"Bondi, Australia","I am a friendly professional and I love to meet new people 
+I work in the health industry love to travel with an appreciation of art music & culture . Have expansive knowledge of Sydney & surrounds & am happy to assist with any questions regarding the accomodation or your trip 
+",N/A,,60,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+218668118,03/10/2018,"Balmain, Australia",,N/A,,60,FALSE,,2,['phone'],TRUE,TRUE
+524808391,10/07/2023,"Vaucluse, Australia","Hi and welcome to our beautiful home by the sea. 
+
+I've lived in Sydney my entire life and am lucky to be surrounded by my family and life long friends.
+
+We love our beach lifestyle and travelling the world so we know how exciting it feels each and every time there's a new destination ahead of us to explore.",N/A,,82,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+323825612,03/01/2020,"Schofields, Australia","I am a qualified remedial therapist. I work from home and live on acreage on the outskirts of Sydney. 
+I live with my partner Phil who is a carpenter and my personal maintenance man. 
+We are both worldly travellers, who enjoy entertaining and living life . 
+We are excited to welcome guests to share the experience of our  tranquil environment. 
+",N/A,,93,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+42069682,20/08/2015,"Rhodes, Australia",,N/A,,,FALSE,Rhodes,1,['phone'],TRUE,TRUE
+50713152,07/12/2015,"North Parramatta, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",FALSE,TRUE
+72981186,20/05/2016,"Campbelltown, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+124146627,03/04/2017,"Erskineville, Australia",,N/A,,,FALSE,Erskineville,1,"['email', 'phone']",TRUE,FALSE
+131580703,23/05/2017,"Rosebery, Australia","My name is Bella I’m living with my partner 
+We had 6 bedrooms big house 
+We are rent one of our bigger double room downstairs We living upstairs.
+
+
+",N/A,,,FALSE,Paddington,6,"['email', 'phone']",TRUE,TRUE
+192978912,02/06/2018,"West Hoxton, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,FALSE
+2351917,12/05/2012,"Erskineville, Australia","Hi everyone, I am looking forward to welcome you to Erskineville in the near future! ",N/A,,100,TRUE,Erskineville,3,"['email', 'phone', 'work_email']",TRUE,TRUE
+212785461,31/08/2018,"Mona Vale, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+31337479,16/04/2015,"Santiago Metropolitan Region, Chile","Lawyer, runner with wanderlust",N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+2898126,10/07/2012,"Surry Hills, Australia","Sydney
+Easy to get along with.  Social but respectful.
+ Executive level employment.
+About to undertake postgrad studies - applying for Harvard and Stanford ",N/A,,,FALSE,Surry Hills,1,"['email', 'phone']",TRUE,TRUE
+8370174,24/08/2013,"London, United Kingdom","We are an Australian & English couple who love travelling and being hosts. Both full time working professionals that prioritise Family, Friends and a large variety of Hobbys. Terry is a keen surfer and lover of all sport. Lucy is lover of arts, yoga.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+11043376,05/01/2014,"Clovelly, Australia","My partner and I live have just purchased an amazing 3 bedroom beachside townhome that has an oversized outdoor terrace with ocean views and a side grass space making this townhome feel more like a home. Additionally with windows on 3 sides of the home creating a single dwelling feeling. Our house instantly feels like a beachside home with locally inspired artwork and decor. Probably the selling feature of this amazing townhome is the location to 3 of the best eastern suburbs beaches ever. a short walk to Clovelly Beach for relaxing, Gordons's bay for snorkelling or kayaking and Coogee to catch some waves.",N/A,,,FALSE,,2,"['email', 'phone', 'work_email']",TRUE,TRUE
+91034448,21/08/2016,"Carlingford, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+155822422,22/10/2017,"Bella Vista, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+158772216,14/11/2017,"Eastwood, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+181507575,30/03/2018,"Vaucluse, Australia","We are a family of 4 from Sydney, multicultural background family who love to travel and learn from different cultures.",N/A,,,FALSE,Vaucluse/Watsons Bay,1,"['email', 'phone']",TRUE,FALSE
+250025344,20/03/2019,"Allawah, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+3415820,29/08/2012,"Queenscliff, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+6767419,06/06/2013,"Bondi, Australia","from Sydney, live in Bondi, my husband Matt (he manages the rental with me) is from the UK.  I spent many years in London before moving back home.  I love to travel but it's harder now I'm back in this part of the world.   Luckily Sydney is a beautiful place - come and visit!",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+94915671,13/09/2016,"Gold Coast, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+492229687,21/12/2022,"West Pennant Hills, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+70570759,05/05/2016,"Redfern, Australia",House of 2 Friendly Sydney Females,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+209892035,16/08/2018,"Miranda, Australia",,N/A,,50,FALSE,,1,['phone'],TRUE,TRUE
+24992329,19/12/2014,"Blacktown, Australia","I'm Dinesh from Sydney 
+Actor/Director ",N/A,,80,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+342177123,21/03/2020,"Quakers Hill, Australia",,N/A,,92,TRUE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+2725174,24/06/2012,"Northwood, Australia","We are a professional couple who enjoy entertaining and travelling.  We have lived in Sydney for over 30 years and are happy to help out with advice on how to get the best out of your stay in this magnificent city.  We are both active with walking, yoga, golfing, boating, tennis and enjoying Sydney's cultural and restaurant life.
+We love to share our light and airy spacious home.  We will greet you and show you around and enjoy chatting, but respect your privacy.   ",N/A,,,FALSE,,1,"['phone', 'work_email']",TRUE,FALSE
+4454823,20/12/2012,"Prince Henry Heights, Australia",We are a couple from Sydney. ,N/A,,,FALSE,Bronte,1,"['email', 'phone']",TRUE,TRUE
+6846960,10/06/2013,"Darlinghurst, Australia","sydney doctor with cute renovated apartment. love to travel, hence the free apartment! like meeting new people and eating yummy food.",N/A,,,FALSE,Bondi Beach,1,"['email', 'phone']",TRUE,TRUE
+6920564,15/06/2013,"Vaucluse, Australia","Hi! I enjoy art, all form of it. I would like to visit some ancient sites in Central America,  Pompeii is on my bucket list too. Love modern architecture...my hero is Zaha Hadid .  I find yoga to be important in my life.
+You will pick my accent right away! I am still more ""at home"" in my native Hungarian culture, but I am also keen learning about new ones!
+Above all, I like to meet interesting people, and making new friends.
+",N/A,,,FALSE,Elizabeth Bay/Rushcutters Bay,2,"['email', 'phone']",TRUE,TRUE
+16105242,28/05/2014,"Burraneer, Australia","I'm a mid 40's professional who's widely traveled, loves the outdoors, sailing, fitness, snow sports and spending time with family and friends. My wife, two daughters and I live in Sydney and have hosted loads of people via Airbnb across a few different properties. We both love our food and wine and sharing great things to do in Sydney with our guests.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+22698637,18/10/2014,"Macquarie Park, Australia","I work in the IT Industry and I have been living in Sydney for over 20 years and love share all of what it has to offer.  I have traveled extensively for work and holidays to the US/China/Middle East/Asia and Europe and understand the need for a safe, well located and restful place to stay. Wife and I and our two boys enjoy an active lifestyle and enjoy the great Australian outdoors as often as we can.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+26133653,14/01/2015,"Wollstonecraft, Australia","I am a family oriented business professional and a Director of a Sydney based recruitment company. I am married with 3 adult children and 3 grandchildren and am an experienced Airbnb host.
+
+I enjoy traveling, scuba diving, socialising with family and friends, and fine dining. 
+
+I've travelled throughout the UK, Europe, the Mediterranean and many places in the USA, with Switzerland and The Bahamas being particular favourites.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,FALSE
+97880022,04/10/2016,"Bilgola Plateau, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+102869206,07/11/2016,"Rockdale, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+132725768,30/05/2017,"Saint Albans, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+134663830,12/06/2017,"Collaroy, Australia",,N/A,,,FALSE,,2,"['email', 'phone']",TRUE,FALSE
+175040605,24/02/2018,"Sefton, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+4098267,08/11/2012,"Surry Hills, Australia","Am a film editor by profession.   My place is in the heart of the city... a nice studio apartment with access to own gym, spa and pool and a weekday concierge.",N/A,,100,FALSE,Surry Hills,1,"['email', 'phone']",TRUE,TRUE
+25467021,01/01/2015,"Lane Cove, Australia",,N/A,,100,FALSE,Lane Cove,1,['phone'],TRUE,TRUE
+161718731,07/12/2017,"Greenwich, Australia",I'm French-Australian and Sydney resident for over 20 years. I live on my own since my children have left the nest. I'm equally happy to have a chat or be independent.,N/A,,100,FALSE,,1,['email'],TRUE,TRUE
+22214914,06/10/2014,"Malabar, Australia","39 years old, beach loving, hard working professional. 
+I am away most weekends, and I work from 9-6pm in the City. 
+I have a little dog, house trained and clean. 
+I am a free thinking, easy going, love a laugh kind of girl. 
+I am clean and tidy, and enjoy making my home as clean and presentable cosy and inviting as possible. ",N/A,,0,FALSE,Malabar,1,"['email', 'phone']",TRUE,FALSE
+10379076,02/12/2013,"Petersham, Australia","I love to travel and to share my home with friends and family. 
+Renting our home on airbnb is an extension of the hospitality my Husband Ben and I would show any of our nearest and dearest. 
+We have busy lives with full time work and hobbies occupying much of our time, with what spare time is left I love planning my next holiday and spending time with our Labrador, Flash. ",N/A,,13,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10306551,28/11/2013,"Newport, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10685901,18/12/2013,"Fairlight, Australia"," Retired now and travelling the world when I can .
+Like the outdoors swimming ,sailing ,canoeing and golf.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+22955942,25/10/2014,"North Bondi, Australia",Nice Guy and very flexible!,N/A,,,FALSE,North Bondi,1,"['email', 'phone']",TRUE,TRUE
+26045254,13/01/2015,"Bronte, Australia","Hi I am Gabriella a hairdresser 
+Wife of Nick mother two adult children Liam and francesca 
+Very Blessed 
+I feel very grateful to live some where so beautiful 
+Our home is a very special place which we are ready to share . 
+Love to meet new people. Really like good real food
+Making something wholesome and tasty out of whatever s in the fridge 
+
+Obsessed with living the best life I can 
+
+Being grateful for all 
+And trying to live in the moment 
+………to drink champagne and go dancing
+Listen to music 
+Or sit quietly under a tree .
+I like   to practice yoga and meditation love quiet time
+With nature 
+I like learning new things. And believe we never stop learning 
+
+I like Spanish movies , reading running on the sand 
+And dipping myself in the Ocean 
+",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+35913904,15/06/2015,"Marsden Park, Australia","I am retired from ""the regular job"" and now spend my time between developing a new home-based personal life and finance skills business, helping my elderly mother and younger family members, then, if I'm lucky enough to have more hours in the day I chase up some personal activity interests. Movies, craft, going out with friends, a glass of red in the evening are all part of my priority list.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+47533813,27/10/2015,"Homebush, Australia",I’m a Machnic. Honest man. ,N/A,,,FALSE,Homebush,1,"['email', 'phone']",TRUE,TRUE
+51880652,21/12/2015,"Saint Clair, Australia","An experienced civil engineer, worked around the world and now engaged with top tier contractor for a state significant infrastructure project.",N/A,,,FALSE,,6,"['email', 'phone', 'work_email']",TRUE,TRUE
+98858694,08/10/2016,"Kellyville, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+139581801,10/07/2017,"Bundeena, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+161094574,03/12/2017,"Epping, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+176796473,05/03/2018,"Cronulla, Australia",,N/A,,100,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+297837739,25/09/2019,"Waterloo, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10623677,14/12/2013,"England, United Kingdom",I'm a young female professional living in Sydney.,N/A,,,FALSE,Darling Point,1,"['email', 'phone']",TRUE,TRUE
+12626328,27/02/2014,"Naremburn, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+24642677,09/12/2014,"Queensland, Australia",,N/A,,,FALSE,,3,"['email', 'phone']",TRUE,TRUE
+57833649,08/02/2016,"Greenwich, Australia",ABC ,N/A,,,FALSE,Greenwich,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+99820129,16/10/2016,"Gerringong, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+103397927,12/11/2016,"Mona Vale, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+129051104,05/05/2017,"Merrylands, Australia",,N/A,,,FALSE,,3,"['email', 'phone']",TRUE,TRUE
+168651152,18/01/2018,"Marayong, Australia",,N/A,,,FALSE,,2,['phone'],TRUE,TRUE
+243007236,13/02/2019,"Cherrybrook, Australia","I am a vegetarian, love art and travel",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+314058612,03/12/2019,"Kurraba Point, Australia",Hi,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10792066,24/12/2013,"Moore Park, Australia",,N/A,,100,FALSE,,3,"['email', 'phone']",TRUE,TRUE
+1829259,29/02/2012,"Pennant Hills, Australia",I am a travel lover and I enjoy meeting people from other countries and cultures. I teach ESL (English as a Second Language) at a local community college. I also make videos and have published the book Producing Videos. Phil is a retired research scientist and an active inventor.,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+6302070,09/05/2013,"Bundeena, Australia","We're Anna and Josh, a Brazilian-Australian couple who love to travel and stay in AirBnBs ourselves. We have a 3 year-old son - Luca, and a kelpie pup named Zecka. 
+We are keen to share our home with like-minded travelers who want to enjoy the beatiful Bundeena and the Royal National Park.",N/A,,33,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+38233637,12/07/2015,"Perth, Australia","We used to live in the Sydney apartment before we moved to Perth to raise kids.  We love the Surry Hills area and the apartment and plan to spend more time there one day if we can ever semi retire.  Any questions let us know, we know the areas very well.  We love travel and stay as Airbnb guests often.",N/A,,71,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+265994762,03/06/2019,"Rushcutters Bay, Australia",,N/A,,83,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+348255568,01/06/2020,"Bilgola Beach, Australia","Hi, we live in the local area and love it! Enjoy your time in our special part of the world.",N/A,,94,FALSE,,1,['phone'],TRUE,TRUE
+33774745,19/05/2015,"Pagewood, Australia",,N/A,,95,FALSE,Maroubra,1,"['email', 'phone']",TRUE,TRUE
+12618740,26/02/2014,"Frenchs Forest, Australia","We are Italian and Japanese couple and able to communicate in English, Italian, French, Spanish and Japanese.  Over 60 countries we have travelled back packing while we were much younger. Now we are little older and wiser, we would like to welcome you in our humble house - ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+39348347,23/07/2015,"Baulkham Hills, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+58253287,10/02/2016,"Seaforth, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+215066186,12/09/2018,"Thornleigh, Australia","Hello! We are a friendly couple who have lived in Sydney for more than 20 years. We have a daughter, Nina, and a Beagle, Woofgang. We enjoy cooking Chinese food, gardening, and walking in nature. 
+
+We live in a separate granny flat behind the home and would be more than happy to answer any questions you may have, give recommendations, and help to make your stay more pleasant! 
+
+We look forward to meeting new people from all over the world!",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+239431176,27/01/2019,"Wentworth Point, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+299921954,03/10/2019,"Denistone, Australia","hi i am vincent, hope you enjoy the trip in sydney",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+211946102,26/08/2018,"Mona Vale, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+178127715,12/03/2018,"Perth, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+454533941,16/04/2022,"Claremont Meadows, Australia",,N/A,,60,FALSE,,1,"['email', 'phone']",FALSE,FALSE
+126201117,17/04/2017,"Mount Pritchard, Australia",Haitao,N/A,,67,FALSE,Mascot,3,"['email', 'phone']",TRUE,TRUE
+1677860,31/01/2012,"Queenscliff, Australia","My wife and I are architects who always like to sing the praises of the Queenscliff and Manly area, good architecture, design,great cafes and restaurants, .
+
+We would like people to enjoy our flat, the surrounding beaches, bikepaths, and entertainment in the area, whilst allowing people independence and the chance to come and go as they please.",N/A,,93,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+3204577,09/08/2012,"Burraneer, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+10058899,16/11/2013,"San Francisco, CA","Originally from Sydney, living in San Francisco.",N/A,,,FALSE,Surry Hills,1,"['email', 'phone']",TRUE,TRUE
+109415346,02/01/2017,"Ultimo, Australia",,N/A,,,FALSE,Ultimo,2,"['email', 'phone']",TRUE,TRUE
+192570603,30/05/2018,"Camperdown, Australia","Independent, generous, comfortable going, love the outdoors, cup chinos, reading, documentaries & meeting new people.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+233209411,29/12/2018,"Rooty Hill, Australia",,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+42643162,27/08/2015,"Queenscliff, Australia","Hi I am Jake,
+
+I have grown up in Queenscliff and would love to be able to help you in any way possible during your stay.
+
+i am looking forward to having you visit! I’ll do my best to make your stay comfortable and help you enjoy this awesome area to the fullest!
+
+Feel free to reach out to me if you have any questions regarding my listing or the local area.",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+40855,23/09/2009,"Potts Point, Australia","Recently retired, I've lived & worked on 4 continents & over the years have travelled thru about 50 countries. I live in inner-Sydney within walking distance of most places (except the beaches, which are approx. 30 minutes. away on public transport).  Interests are travelling, wildlife, reading,snorkelling, theatre, ballet & interesting food. ",N/A,,,FALSE,Potts Point,1,"['email', 'phone']",TRUE,FALSE
+8477607,27/08/2013,"Palm Beach, Australia",Poolside cabin with  king bed and ensuite plus kitchenette.,N/A,,,FALSE,Palm Beach,1,"['email', 'phone']",TRUE,TRUE
+10935655,31/12/2013,"Annandale, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+23759036,15/11/2014,"Barcelona, Spain",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+45127956,26/09/2015,"Crows Nest, Australia",,N/A,,,FALSE,Crows Nest,2,"['email', 'phone']",TRUE,TRUE
+134643458,12/06/2017,"Clemton Park, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+142107225,23/07/2017,"Mays Hill, Australia",Like to travel and make new friends,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+289641685,27/08/2019,"Newport, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+507258950,27/03/2023,"Scotland Island, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+8017063,08/08/2013,"Holgate, Australia",We are an Australian family with two girls aged 15 and 13.,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+20622936,27/08/2014,"Scotland Island, Australia","Colin and I have  welcomed guests to the Lodge since 2002 and we have  established a reputation for excellent food and hospitality as well as providing quality and comfortable accomodation. We have a 4 star rating from AAA association and have been reviewed as excellent accomodation in the Sydney Morning Herald Travel section. Over the years we have had visitors from NSW, Interstate, and from all over the world as well and we continue to offer you a memorable visit to our special place on Pittwater.   
+   ",N/A,,100,FALSE,,3,"['email', 'phone']",TRUE,TRUE
+47186270,22/10/2015,"Tamarama, Australia",,N/A,,100,FALSE,,1,['phone'],TRUE,TRUE
+287042073,19/08/2019,"Shoal Bay, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+382048257,28/12/2020,"Newport, Australia",Northern beaches designer - born and bread Avalonian ,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+21511808,19/09/2014,"Paddington, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+227890358,27/11/2018,"Killarney Heights, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+3296933,18/08/2012,"Collaroy, Australia","We are a family living on the Northern Beaches with stunning ocean views and less than a 3 min walk to the beach. We have a large house with 3 bedrooms (plus an extra room/utilities that has a couch that converts to a king bed, plus a double sofa bed in the lounge room). 
+There are 2 bathrooms. 
+We rent out downstairs to a single tenant - this has it's own entrance and utilities. 
+Just a short walk to the lake, beaches, restaurants and cafes.",N/A,,25,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+3297469,18/08/2012,"Gatineau, Canada",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+23197488,31/10/2014,"Pagewood, Australia",,N/A,,,FALSE,Maroubra,2,['phone'],TRUE,TRUE
+23258323,02/11/2014,"Tamarama, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+23919160,19/11/2014,"Adelaide, Australia","I am an artist and my wife is a gallery curator/director. We live in Adelaide for her job and thus we are able to share our Sydney home. We love art, design, culture, food, travel. For you stay in our house you will be looked after by our dear friend Joanna.",N/A,,,FALSE,Darlinghurst,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+54793629,15/01/2016,"Hurstville, Australia","- in my 30s, back to full time study after spending some time working in higher education sector 
+- easygoing, friendly, open-minded, respectful, helpful, easy to communicate
+- love to meet different people with different values and lifestyle
+- migrant from China over a decade ago",N/A,,,FALSE,Hurstville,1,"['email', 'phone']",TRUE,TRUE
+82409162,08/07/2016,"Bella Vista, Australia",Hi I'm Anthony your host and avid traveller! It is through my experiences and love for travelling that has taught  me to how to deliver on quality experiences for all my guests. A holiday should be special and memorable and that is something that my homes can offer you :),N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+93929090,06/09/2016,"Wagga Wagga, Australia",I am a 27yo male that working in healthcare. I am very clean respectful. ,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+100297233,18/10/2016,"Wheeler Heights, Australia",,N/A,,,FALSE,,2,"['email', 'phone', 'work_email']",TRUE,TRUE
+302049563,13/10/2019,"North Turramurra, Australia","I enjoy a quiet, low-key relaxed getaway, and enjoy exploring nearby cafes, beaches, and restaurants",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+16394269,08/03/2016,"Queenscliff, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+23007555,26/10/2014,"Fairlight, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+327209010,13/01/2020,"Holroyd, Australia",Originally kiwis who have stayed in AirBnb throughout our travels abroad with our babies - thus jumped on board to offer our hospitality now that we're home. Our girls are friendly but we'll stay out of your hair during your stay. Welcome.,N/A,,67,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+6006502,20/04/2013,"Miranda, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",FALSE,TRUE
+6996679,19/06/2013,"Curl Curl, Australia","I'm from Australia, very active/social and live to travel",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+18426884,20/07/2014,"Bronte, Australia","I am an Australian woman married to an Englishman with 3 children .
+We love travelling and experiencing life in many places around the world.",N/A,,,FALSE,Bronte,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+41431897,14/08/2015,"Mollymook Beach, Australia","Have recently moved from the busy northern beaches of Sydney to mollymook beach/ loving our new life! 
+Have enjoyed using air BnB around Australia as well as America a few years ago. 
+Am happy to guide guests staying on the beautiful south coast and make sure they have a wonderful, comfortable stay",N/A,,,FALSE,,3,"['email', 'phone']",TRUE,TRUE
+102311198,03/11/2016,"Sans Souci, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+125325788,11/04/2017,"Macquarie Park, Australia","I run my small business. Love travel, architecture and design.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+156845127,30/10/2017,"New Territories, Hong Kong",,N/A,,,FALSE,Sai Wan Ho,1,"['email', 'phone']",TRUE,TRUE
+246503628,03/03/2019,"Kurnell, Australia","Laid back family of 6. Respectful, honest, hardworking and full of love for each other",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+26352761,19/01/2015,"Woolloomooloo, Australia","Mature, responsible and tidy.
+Enjoys family time, travelling, beach and fine dinning.",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+376462093,20/11/2020,"Kirribilli, Australia",,N/A,,100,FALSE,,1,['phone'],TRUE,TRUE
+161755332,07/12/2017,"Moore Park, Australia",,N/A,,33,FALSE,Paddington,1,"['email', 'phone']",FALSE,TRUE
+314357097,03/12/2019,"Bondi Junction, Australia",,N/A,,33,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+8173482,15/08/2013,"North Bondi, Australia","Jason and I have been living in North Bondi for over 7 years and we absolutely love it. 
+
+You will find us surfing or running on the Bondi to Coogee coastal walk. We love yoga, travelling and going out with friends.",N/A,,38,FALSE,North Bondi,1,"['email', 'phone']",TRUE,TRUE
+387756,11/02/2011,"New York, NY",,N/A,,50,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+7047570,22/06/2013,"Elizabeth Bay, Australia","Justine and Erwin, food lovers, enjoy traveling to create new memories and share quality times together.",N/A,,75,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+3363496,24/08/2012,"West Pennant Hills, Australia","Wife of I.T geek hubby, Mum of 4 daughters.
+Music teacher in a Primary School.
+Likes: Music, computers,  cycling, sewing, Christian. ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+7747814,26/07/2013,"Perth, Australia",I am from Singapore and a lecturer at university. ,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+14880569,07/10/2015,"Marsfield, Australia",I live in Sydney. I am an engineer who likes to travel. ,N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+21657361,22/09/2014,"Manildra, Australia",,N/A,,,FALSE,Avalon,1,"['email', 'phone']",TRUE,TRUE
+25665291,05/01/2015,"Balgowlah, Australia","My name is Sarah and I am English but have lived in Australia for 16 years. I love travelling and visiting different places, if I could I would travel forever! I have 2 children now called Ryder & Indy and I love visiting new places with them. I also love the beach, vegan food, tv shows and reading. ",N/A,,,FALSE,Balgowlah,1,"['email', 'phone']",TRUE,TRUE
+37104267,30/06/2015,"Waterloo, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+104842127,22/11/2016,"Surry Hills, Australia","Nice friendly guy that loves meeting new people. Love the beach, music, dancing and karaoke..",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+151635552,22/09/2017,"Drummoyne, Australia",We are Sydney and Drummoyne locals,N/A,,,FALSE,Drummoyne,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+589229582,11/07/2024,"Stanmore, Australia","After too many years of being stubbornly stagnant, it's time for me to start travelling a bit. So why not come and stay at my place while I'm away?",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+13013470,11/03/2014,"Balgowlah, Australia","We are an Australian couple, who love living in Balgowlah close to Manly and enjoy all this fantastic location has to offer- from harbour side walks, beach swims , SUP paddling, and boating. ",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+54924558,17/01/2016,"North Willoughby, Australia","A family man, a music lover",N/A,,100,FALSE,Strathfield,2,"['email', 'phone']",TRUE,TRUE
+48529730,08/11/2015,"Caringbah South, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+18775578,24/07/2014,"Marseille, France",,N/A,,36,FALSE,,3,"['email', 'phone']",FALSE,TRUE
+96226682,21/09/2016,"Balgowlah, Australia",,N/A,,67,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+100452475,20/10/2016,"Clovelly, Australia",,N/A,,75,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+20185351,17/08/2014,"London, United Kingdom",,N/A,,,FALSE,North Bondi,1,"['email', 'phone']",TRUE,TRUE
+50248423,01/12/2015,"Dulwich Hill, Australia","Love meeting people of all nationalities, religions, cultures and ages. 
+Enjoy travelling, walking,  cooking and eating different cuisines. 
+Taught practically every subject possible for all age levels. 
+Next holiday will be Thailand I hope. 
+Well no holidays for some time except within Australia for now! ",N/A,,,FALSE,Dulwich Hill,4,"['email', 'phone']",TRUE,FALSE
+54886370,16/01/2016,"St Peters, Australia",,N/A,,,FALSE,Waterloo,1,"['email', 'phone']",TRUE,TRUE
+89943277,14/08/2016,"Pagewood, Australia",I am a hard working person locate in Sydney. Have not done too much travel yet.,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+108590772,26/12/2016,"Victoria, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+78007933,15/06/2016,"Lane Cove, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+152563562,29/09/2017,"Glenmore Park, Australia","Self employed building and pest inspector.
+Married.
+2 adult children
+",N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+14253682,14/04/2014,"Bella Vista, Australia",,N/A,,75,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+23058249,28/10/2014,"Malabar, Australia",My family and I love the outdoors. We often travel to snowboard and surf and love our home in Malabar. My husband is a builder who has built our beautiful home and I am a PE Teacher in a girls high school. Our 2 daughters are 6 and 9 and are growing up to share and enjoy our outdoor lifestyle.,N/A,,88,TRUE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+599232,18/05/2011,Hong Kong,"I love the North Bondi lifestyle - my tip is to try and get out there at sunrise to tap into the local life, go for a surf or run the iconic coastal path to Bronte past Icebergs sea baths or just grab a coffee and chill on the legendary sands before they heat up with sun and sun worshippers.  Don't forget your bathers. THE BEST start to a day in Sydney.",N/A,,,FALSE,North Bondi,1,"['email', 'phone']",TRUE,FALSE
+8544847,31/08/2013,"Jindabyne, Australia","I am now I retired and enjoying time in Jindabyne combined with time in Sydney. I have travelled extensively, just making it back from Antarctica before the pandemic shut down the world. I have used air bnb around the world, from Lisbon, to Juneau, Seattle, San Francisco, Paris, Brussels, Venice and more. I far prefer a home stay where I can hopefully meet local hosts, gain some local knowledge and enjoy what large hotels can’t offer.
+I’m currently hosting my large Jindabyne home for holidays in the mountains and a home in Epping for those needing accommodation in Sydney. We built our Jindabyne cottage when our children were young. Many fun-filled holidays throughout the year have been enjoyed by our family and our friends. We’re sure you will love our cottage, with its warm ambience and creature comforts. 
+The Epping heritage cottage is delightful and very close to the main transport hub of Epping.
+You are welcome to contact me for any further information you might need. I look forward to welcoming you soon.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+12712222,02/03/2014,"Tamarama, Australia",,N/A,,,FALSE,Tamarama,1,"['email', 'phone']",TRUE,TRUE
+23590373,10/11/2014,"Spratton, United Kingdom",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+41423540,13/08/2015,"Hammondville, Australia","We are a Brazilian/Australian couple with a two bedroom house aimed to provide quality accommodation for Brazilian Students and Tourists who wish to experience everything Australia has to offer.
+",N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+47663165,28/10/2015,"Waverley, Australia","Angela is Swiss-Italian, speaks 5 languages and has travelled to over 47 countries. She has had many beautiful experiences with Airbnb.  I can recommend the best way to get around and what to do. 
+
+",N/A,,,FALSE,Bondi,2,['phone'],FALSE,TRUE
+49775015,24/11/2015,"North Curl Curl, Australia","I am friendly, easy-going with 3 beautiful children as well as a puppy.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+56167545,26/01/2016,"Gordon, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+132251205,28/05/2017,"Bogota, Colombia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+4610858,06/01/2013,"Bronte, Australia","British born but now living in Sydney, Australia. Enjoy being close to water, whether it's river, ocean or billabong! Also love spending time travelling and discovering new places with my husband and daughter.",N/A,,100,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+54883173,16/01/2016,"Sans Souci, Australia","Hi my name is Caroline and welcome to beautiful sans souci. I’m a proud mumma to a four legged bundle of joy named Bobby and a once wild brumby named pale face. I love adventure, nature, animals, travelling and the great out doors. My place is a little beachside cottage in beautiful sans souci. I hope you enjoy bayside cottage as much as I do. ",N/A,,100,FALSE,Sans Souci,1,"['email', 'phone']",TRUE,TRUE
+237531503,19/01/2019,"Rivervale, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+249455928,17/03/2019,"Newport, Australia",We love traveling seeking out new experiences along the coastal & Snowy regions of Australia & abroad ,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+146820438,19/08/2017,"Newcastle, Australia",,N/A,,83,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+2288007,04/05/2012,"Lilyfield, Australia",Im from Australia an I love to travel,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+4352187,07/12/2012,"Croydon, Australia","Teacher 
+",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10734921,20/12/2013,"Balgowlah, Australia",,N/A,,,FALSE,Balgowlah,1,"['email', 'phone']",TRUE,TRUE
+23432451,06/11/2014,"Pyrmont, Australia",,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+42236602,22/08/2015,"Newport, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+57922973,08/02/2016,"Castle Hill, Australia",Qualified English Teacher happy to give you some paid English lessons,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+67287214,15/04/2016,"Rose Bay, Australia","I have been living in the inner city of Sydney for over 25 years  so can always point you in the right direction if you need any ideas. Although Sydney at first seems a bit vast it's surprising how much you can cover on foot or bicycle without being entirely exhausted. 
+As your host I can help you get the most out of a first visit with ideas on what to see and do.  ",N/A,,,,,17,"['email', 'phone']",TRUE,TRUE
+106590432,08/12/2016,"Canberra, Australia","Hi, I am Nathan. I don't live in the Mount Druitt house. I live in Canberra. You share the house with 2 Indian long term Tenants. I got a Srilankan background.",N/A,,,FALSE,,2,"['email', 'phone']",TRUE,FALSE
+144037807,03/08/2017,"Salt Lake City, UT","Live in Salt Lake City, happily married with beautiful children who love to travel as much as my wife and I do. ",N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+154898367,16/10/2017,"Norwest, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+159136561,17/11/2017,"Gold Coast, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+211494236,24/08/2018,"Wolli Creek, Australia",,N/A,,,FALSE,,2,['phone'],TRUE,TRUE
+2495181,29/05/2012,"Kirribilli, Australia",Living in Kirribilli,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+15295168,09/05/2014,"Darlinghurst, Australia",Friendly but quiet. Love traveling.,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+71499920,11/05/2016,"Bondi, Australia",Arts Professional,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+108303680,23/12/2016,"Mount Gambier, Australia",Nature loving ,N/A,,71,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+103517576,13/11/2016,"Cronulla, Australia",,N/A,,92,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+10462380,06/12/2013,"Maroubra, Australia","I have lived by the surfside all my life and there is not one day that has past that im not grateful. I have a beautiful wife and three gorgeous kids. We are all ready to travel hense why we are hosting on Airbnb. My passions are health and fitness! Our guest will enjoy this house and its surrounds as its a stones throw from the most amazing beaches,fishing spots,cafes and amazing views etc  ",N/A,,,FALSE,Maroubra,1,"['email', 'phone']",TRUE,TRUE
+12312118,17/02/2014,"Penshurst, Australia","My name is Lucky, and I believe I am a lucky girl. I wish I will make your Sydney stay lucky and enjoy.",N/A,,,FALSE,Central Business District,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+26858749,28/01/2015,"Greenwich, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+27963327,18/02/2015,"Carlton, Australia","I am very responsible for everything i do. 
+I am easy-going person, friendly precisely.
+Love to share with people
+Love to help others",N/A,,,FALSE,Mascot,1,"['email', 'phone']",TRUE,TRUE
+39893019,29/07/2015,"Wentworth Point, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+62378246,10/03/2016,"São Paulo, Brazil",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+75471559,02/06/2016,"Padstow Heights, Australia","  I am a sociable person. I accept and love all people . I like to help . I love travelling and enjoying  life. I love my lord Jesus Christ above all.  
+My wish is to receive  people from all over the world in my house . 
+I speak German, French, English ",N/A,,,FALSE,Padstow,4,"['email', 'phone']",TRUE,TRUE
+87469972,02/08/2016,"North Wahroonga, Australia",I am a family oriented person living in Australia for many years. I work in Australia. I speak English and Hindi.  I love knowing about  different cultures.,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+101892144,30/10/2016,"Dundas Valley, Australia","Hi there,
+I am a Finance and Investment professional lives in Sydney.
+I'm fun loving guy and love travelling.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+165726306,03/01/2018,"Taipei, Taiwan",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+436254,11/03/2011,"Centennial Park, Australia","For many years I have traveled with airbnb around he world and enjoyed it greatly, wonderful hosts I have met on my journeys 
+I have now settled back in Sydney and will enjoy meeting guests from around the world myself.
+Sydney has much to offer and I am keen to provide information if required.
+I am a vegetarian and can only accept those that are likewise
+No smoking at all.
+I use actively A Course in Miracles and have been teaching this experience of self recognition for 20 years.
+No reviews yet but I have many reviews of being a guest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",N/A,,100,FALSE,,1,['phone'],TRUE,TRUE
+73902691,25/05/2016,"Victoria, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+49743612,23/11/2015,"Neutral Bay, Australia","I am friendly, easygoing and caring. My intrests are travel,reading,cooking and movies.I have visited America, Vietnam,Cambodia,China,Indonesia,Thailand New Zealand and most of Europe. My hme is a friendly,comfortable abode within minutes of Sydney CBD and close to many resturants and Sydney holiday attractions with train,bus and ferry on my doorstep. I live with my husband and have 3 adult children and 7 grandchildren.",N/A,,0,FALSE,Neutral Bay,1,"['email', 'phone']",TRUE,TRUE
+298476905,28/09/2019,"Melbourne, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+316687072,12/12/2019,"Bondi Junction, Australia",,N/A,,0,FALSE,Bondi Junction,1,['phone'],TRUE,TRUE
+2919699,12/07/2012,"London, United Kingdom",I was raised in Australia and now live in London. I am working professional who likes to travel.,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+27011771,31/01/2015,"Darlinghurst, Australia",,N/A,,,FALSE,Darlinghurst,1,"['email', 'phone']",TRUE,TRUE
+50617274,05/12/2015,"Wareemba, Australia",,N/A,,,FALSE,Abbotsford/Wareemba,2,"['email', 'phone']",TRUE,TRUE
+62879929,14/03/2016,"Lane Cove, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+202456624,15/07/2018,"Glen Waverley, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+220474127,13/10/2018,"Condell Park, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+312474073,27/11/2019,"Campsie, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+35061201,05/06/2015,"Asquith, Australia","We are Eco friendly, sustainable practising people, who respect others who respect us and the environment.
+We have travelled extensively, and speak a few languages.
+When we travel we are happy to save on necessities, in order to have resources for other enjoyable things.
+We like bushwalking, camping, DIY, photography, language, travelling.",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+545682666,09/11/2023,"Chatswood, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+202699955,16/07/2018,"Rosebery, Australia","Quiet at first, enjoy traveling and sight seeing",N/A,,33,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+12099142,09/02/2014,"Fairlight, Australia","My husband Tim and I live here.  We hope you enjoy our house and our hood as much as we do. It’s a fabulous spot with wining, dining, swimming and walking all close by.",N/A,,83,FALSE,Fairlight,1,"['email', 'phone']",TRUE,TRUE
+545954868,10/11/2023,"Cronulla, Australia",,N/A,,83,FALSE,,1,"['email', 'phone']",FALSE,TRUE
+4430432,17/12/2012,"Bronte, Australia","I'm a film maker and a bicycle/pedalec designer.
+
+I practice yoga with the greatest teacher I have met in 30 yrs of practice. When I'm in Sydney, I surf or Dive or Ocean swim at Bronte and I ride my bike in Centennial Park.
+
+You can find out more about me on Vuelo Velo, you can look it up online (add my name).
+
+Good thoughts,
+Marty",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+5297461,03/03/2013,"Narrabeen, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+11377726,16/01/2014,"Cammeray, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+40677008,06/08/2015,"Clareville, Australia",,N/A,,,FALSE,Mosman,1,['phone'],TRUE,FALSE
+81589950,04/07/2016,"Woolooware, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+151472360,21/09/2017,"Balgowlah, Australia",,N/A,,,FALSE,Balgowlah,1,"['email', 'phone']",TRUE,FALSE
+192176652,28/05/2018,"Petersham, Australia",,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+356048698,13/07/2020,"Warriewood, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+181577111,31/03/2018,"Curl Curl, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+381106640,21/12/2020,"Potts Point, Australia","We are Sydney Potts Point Central Apartment Hotel, Australian Owned and Operated - Part of the Central Apartment Group of Hotels ask us about our other locations!",N/A,,100,FALSE,,5,"['email', 'phone']",TRUE,TRUE
+190937719,22/05/2018,"Jannali, Australia",,N/A,,0,FALSE,,1,['phone'],TRUE,FALSE
+12769321,03/03/2014,"Queenscliff, Australia",Humble kiwi living on Sydney’s Northern Beaches happy to share the beautiful surrounds ,N/A,,29,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+15882085,23/05/2014,"Tamarama, Australia",,N/A,,78,FALSE,Tamarama,1,"['email', 'phone']",TRUE,FALSE
+65321404,01/04/2016,"Norwich, United Kingdom",,N/A,,80,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+786790,06/07/2011,"Cronulla, Australia",,N/A,,,FALSE,,1,['email'],TRUE,TRUE
+5729364,02/04/2013,"Kirribilli, Australia",From Australia looking places to stay that are suitable for young children as well. Not interested in resort areas.,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+178157771,13/03/2018,"Bankstown, Australia","Sharing good food and wine with my partner and friends, Sydney Summer Traveling the world",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+335925549,13/02/2020,"Stockholm, Sweden",DELETED ACCOUNT. UNABLE TO DELETE BECAUSE OF AIRBNB BUG.,N/A,,,FALSE,,1,"['email', 'phone']",FALSE,TRUE
+167612003,13/01/2018,"Newport, Australia","I live on the northern beaches of Sydney with my wonderful husband and two amazing boys. During summer I love hanging out at the beach and building a good sandcastle. Over winter I love a skiing adventure. 
+We are blessed to live in a beautiful part of Australia. We enjoy sharing our home with others so they too can make wonderful memories in the stunning northern beaches.",N/A,,100,TRUE,,2,"['email', 'phone']",TRUE,TRUE
+26955371,30/01/2015,"Warriewood, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+7993905,07/08/2013,"Waverton, Australia","Having stayed in many holiday rentals I believe our house comes up trumps! My husband and I spent nearly a year working with our architect to come up with a renovation that ticks all the boxes! We have a large north facing living space - the kitchen, dining/lounge room, deck all enjoy direct access to the tropical garden. We added two tree top bedrooms in the floor above the existing Federation style house. The master bedroom has a very romantic Juliet Balcony which provides views of the city through our towering Palm trees. We love our house and hope you do too!
+Like you we love travel adventures and make sure our life isn't a dress rehearsal!!",N/A,,25,FALSE,Wollstonecraft/Waverton,1,"['email', 'phone']",TRUE,TRUE
+163831408,23/12/2017,"Chippendale, Australia",,N/A,,50,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+5375570,08/03/2013,"Balgowlah, Australia","We are now a family of 5 - with 3 young girls.  We love traveling around the world, but there's nothing like the beauty of the beaches in our backyard in Sydney.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+73306370,22/05/2016,"Newport, Australia","I’m a workaholic so not there very much. Literally sleep and off to work. Simple, straight forward, clean and friendly ;)",N/A,,,FALSE,Balmoral,2,"['email', 'phone', 'work_email']",TRUE,TRUE
+105378696,27/11/2016,"Wolli Creek, Australia",,N/A,,,FALSE,Wolli Creek,2,"['email', 'phone']",TRUE,TRUE
+105595974,29/11/2016,"Tamarama, Australia","38yo project manager and engineer from Bondi, Sydney ",N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+112023591,18/01/2017,"Rhodes, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+130399616,15/05/2017,"Banksia, Australia","Very honest and straightforward, i love sport , and very respectful ",N/A,,,FALSE,,4,"['email', 'phone']",TRUE,FALSE
+178140480,12/03/2018,"Mona Vale, Australia",,N/A,,100,FALSE,,1,['phone'],TRUE,TRUE
+188953734,10/05/2018,"West Menlo Park, CA",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+33710456,19/05/2015,"Paddington, Australia",,N/A,,67,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+6703375,02/06/2013,"Santiago, Chile","Hi there! My name is Natalia I live in Coogee, designer, foodie and I love to travel and meet people from abroad.
+/Soy chilena, diseñadora y me encanta viajar y conocer gente!",N/A,,,FALSE,Randwick,1,"['email', 'phone']",TRUE,FALSE
+37404368,03/07/2015,"Maroubra, Australia",,N/A,,,FALSE,Maroubra,3,"['email', 'phone']",TRUE,TRUE
+51613926,17/12/2015,"Maroubra, Australia",Food lovers,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+188418647,07/05/2018,"London, United Kingdom",,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+368488631,20/09/2020,"Waverley, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+245469797,26/02/2019,"Newport, Australia",,N/A,,100,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+371108938,08/10/2020,"Canada Bay, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+23348636,04/11/2014,"Balmain East, Australia",,N/A,,33,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+15149549,05/05/2014,"Bondi Junction, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+30802323,07/04/2015,"Cremorne Point, Australia",,N/A,,,FALSE,Cremorne,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+34602394,30/05/2015,"Newtown, Australia","American-Australian living in Sydney and enjoying life as much as I can. I’ve loved staying at air bnbs on some of my many travels and am happy to create the kind of comfortable, beautiful, Sydney-spirited place I know I’d want if I were travelling here. 
+Happy trails!",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+49798571,24/11/2015,"São Paulo, Brazil",,N/A,,,FALSE,Wollstonecraft/Waverton,1,"['email', 'phone']",TRUE,TRUE
+58104887,09/02/2016,"Woolooware, Australia",,N/A,,,FALSE,Cronulla,2,"['email', 'phone', 'work_email']",TRUE,TRUE
+61328523,02/03/2016,"Curl Curl, Australia","I am a retired school principal, married (my wife still works full time) and we both love to travel and spend time with our growing family. With 7 grandchildren with twins on the way, we will need to be spending more time in the UK to support our daughter's quickly growing family.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+63194575,16/03/2016,"Zadar, Croatia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+64118109,23/03/2016,"Gymea Bay, Australia","Retired Music Teacher
+Family person
+Regular user of Airbnb
+Can't do without my morning coffee and a walk",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+161797907,08/12/2017,"Melbourne, Australia",,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+197408988,23/06/2018,"Pemulwuy, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+14829735,28/04/2014,"Byron Bay, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+47054360,20/10/2015,"Bundeena, Australia",,N/A,,100,TRUE,,5,"['email', 'phone']",TRUE,TRUE
+120679214,14/03/2017,"Chiswick, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+50963947,10/12/2015,"Sylvania Waters, Australia",,N/A,,0,FALSE,,1,['phone'],TRUE,TRUE
+229941914,10/12/2018,"Glebe, Australia",,N/A,,0,FALSE,Forest Lodge,1,"['email', 'phone']",TRUE,FALSE
+18024774,13/07/2014,"Beacon Hill, Australia",,N/A,,50,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+491005093,11/12/2022,"Bundeena, Australia","Hi, we are Stephen and Pauline Livesey.
+We have lived in this little slice of paradise Bundeena for over 20 years. We have raised two children here and continue to love the peaceful life this little village offers. 
+
+Check out our Insta: @lilliput_lane_bundeena
+
+Policy Number
+APS-STRA 60252",N/A,,75,TRUE,,1,"['email', 'phone']",TRUE,FALSE
+1951184,18/03/2012,"Brooklyn, Australia","We live north of Sydney, Australia on the Hawkesbury River and enjoy boating, swimming and bush walking.
+My husband, Ambrose Reisch is a contemporary artist living and working in Brooklyn.
+",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+25442941,31/12/2014,"Penshurst, Australia",,N/A,,,FALSE,Mortdale,1,"['email', 'phone']",TRUE,TRUE
+44724285,21/09/2015,"Little Bay, Australia","Into to Yoga, vegetarianism and travel lover. ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+46423600,12/10/2015,"Bilgola Plateau, Australia","I love the northern beaches and its fabulous outdoors lifestyle, I like camping, mountain bike riding, paddle boarding, meditation, and spending time with my two gorgeous children.
+
+I've travelled throughout Australia, Asia, South America, and Europe. On my many adventures I've been trekking in the Himalayas, camped out in the Amazon jungle, done adventure caving and canyoning, and been swimming with dolphins.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+66045830,06/04/2016,"Neutral Bay, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+99159587,11/10/2016,"Seattle, WA",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+135558069,17/06/2017,"Sydney Olympic Park, Australia",I am a good farmer. Wish everything goes well with you ,N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+140460372,14/07/2017,"Moore Park, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+228526459,01/12/2018,"Macquarie Links, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+428695129,23/10/2021,"Camperdown, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",FALSE,TRUE
+3354141,23/08/2012,"Clareville, Australia",,N/A,,100,FALSE,Avalon,1,"['email', 'phone']",TRUE,TRUE
+26769987,27/01/2015,"Paddington, Australia",,N/A,,100,FALSE,Paddington,1,"['email', 'phone']",TRUE,TRUE
+72847518,19/05/2016,"Loftus, Australia",Retired stonemason I have been living in Australia for 40 years ,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+107815252,19/12/2016,"Byron Bay, Australia","Sydney is a world-class city. My wife and I love connecting our guests with the very best food, wine and wellness experiences this town has to offer. A mix of well-known staples and lesser-known gems.",N/A,,100,FALSE,,1,['phone'],TRUE,TRUE
+205780135,28/07/2018,"Macksville, Australia",,N/A,,73,FALSE,,6,"['email', 'phone']",TRUE,TRUE
+928715,05/08/2011,"Tamarama, Australia","Creative Director, from Sydney Australia",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+20348776,21/08/2014,"Fairlight, Australia",,N/A,,,FALSE,Fairlight,1,"['email', 'phone']",TRUE,TRUE
+23470564,07/11/2014,"Putney, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+50163470,30/11/2015,"Clovelly, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+53765359,07/01/2016,"Ashfield, Australia","Hi, Im Marija and I am a Massage therapist with a background in Early Childhood education also. I enjoy reading, yoga, meditation and cooking. I enjoy travelling and meeting new people. Hope to meet you soon! ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+71087336,09/05/2016,"Epping, Australia",Nat,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+8246988,19/08/2013,"Bondi, Australia","""Travel is the greatest education you can ever receive""",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+9430776,14/10/2013,"Edgecliff, Australia","I really enjoy hosting & interacting with people I meet..I like to entertain & particularly enjoys cooking , international travelling & being outdoors.
+Being an animal lover you will need to cope with a rather shy cat
+I love movies, theatre, fine dining in particular & I try to walk 3 - 4 Kilometres per day
+I believe the best is yet to come as far as life is concerned .
+Looking forward to enjoying your company & a glass wine",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+11854424,02/02/2014,"Killarney Heights, Australia","I am an active recently retired nurse . I  enjoy playing host to visitors who would enjoy seeing and experiencing this great country.
+My home is comfortable with all mod. cons. The house is situated in a quiet  residential road walking distance to local shop and public transport facilities. The famous Northern Beaches are within easy reach 20mins drive away. Sydney City is  30 mins bus ride . Two double rooms.  Own bathroom with bath and shower. Separate WC. Tranquil garden where smoking is allowed.There are also several beautiful bush walking tracks near by.
+Pets allowed.
+",N/A,,,FALSE,Cremorne,1,"['email', 'phone']",TRUE,TRUE
+18528515,21/07/2014,"Narrabeen, Australia",Trustworthy,N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+33615467,18/05/2015,"Narraweena, Australia",We are a family of 4 adults from the northern beaches in Sydney NSW Australia ,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+182892582,07/04/2018,"Turramurra, Australia","We are a family who loves to be around people. At the same time, we are also very respectful of privacy. ",N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+326094721,10/01/2020,"Pagewood, Australia","We have a beautiful house in Pagewood near shopping centre, parks, beaches, airport, UNSW, city bus at door and light rail 500 metres away. This is a shared house with others living here so please keep in mind that we are not a 5 star hotel and we don’t clean the rooms, bathrooms, kitchen etc every day… we keep the house clean but don’t get upset if someone leaves a towel in the bathroom or a plate in the sink LOL. It’s a lovely shared vibe.",N/A,,,FALSE,Pagewood,3,"['email', 'phone']",TRUE,TRUE
+78696073,19/06/2016,"North Manly, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+200091419,05/07/2018,"Warriewood, Australia","Hi there,
+My family and I are avid travellers, and have been lucky enough to travel extensively around Australia and the world.
+We're originally from the UK, but have now lived in Australia for over 25 years, the last 9 or so on Sydney's Northern Beaches (which, despite all the travelling we've done and wonderful places we've seen, we still think is the best place in the world to live). 
+",N/A,,100,FALSE,,1,['phone'],TRUE,TRUE
+23645050,12/11/2014,"Palm Beach, Australia","I have lived in this area since 1965 and feel absolutely blessed. I have spent some time overseas and lived for short stints in some amazing places like New York, Hawaii, Greek islands and have always been so happy to return here.
+
+I have a passion for design and architecture of homes.  I'm also a keen skier, cook, love to be outdoors body boarding and simply walking or jogging around this great area of ours. The beach draws me to it every day, I love it rain hail or shine.
+
+Entertaining and cooking for people is second nature, I like to make everyone around me feel happy and comfortable. We have chooks and a veggie garden which is important to us.  Like most people these days I am very environmentally conscious and try to do my bit for our planet and our oceans.",N/A,,0,FALSE,Palm Beach,1,"['email', 'phone']",TRUE,TRUE
+97893027,04/10/2016,"Vaucluse, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+14207745,12/04/2014,"Queens Park, Australia","Hi everyone.  I've lived and worked in Sydney's Eastern Suburbs for the last 15 years and just love it!  There are beaches, coffee shops, restaurants, pubs and bars and the fabulous Bondi Junction Westfield all so close by. I also do lots of exercise and ocean swimming so I really enjoy heading to the beaches - Bronte, Bondi, Clovelly and Coogee - all are only a 5-10 min drive with lots of buses and some an easy walk. Centennial and Queens Park are regulars for me as I do a lot of running and the parks and beach clifftops are perfect for meditation too.  I hope to see you soon!  Cheers Leona.",N/A,,80,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+1342138,03/04/2015,"Alexandria, Australia","I'm easy going in general and enjoy playing sport when I'm not working. I'm well travelled, and love meeting others!",N/A,,90,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+2971804,09/11/2016,"Bondi, Australia","I'm an ocean and good food lover. Keen surfer and SUPer. I’m self employed and enjoy getting away, creating adventure and long weekends. Most days you’ll find me in the surf at Bondi Beach having a chat and enjoy breakfast on my balcony overlooking the beach. They’ll carry me out of Bondi in a box! You can get amongst Bondi as thick or as little as you choose. There’s a collective community, lots of cool bars and amazing restaurants.  It’s a special part of the world! ",N/A,,,FALSE,North Bondi,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+10973014,11/12/2015,"North Manly, Australia","Paul & Meg love living in Manly. They love the beach & have so many to choose from around them- all the way up to Palm Beach along the Northern Beaches. beautiful Freshwater & Queenscliff are only minutes away.
+Gardening & fishing are their favourite things to do & cooking for & entertaining their family and friends from Australia and visitors from around the world. Meg loves doing many craft projects such as quilting & leadlight glass & Paul is a keen gardener and home handyman. Meg & Paul will be caring hosts, ready for a chat but will give you your space. ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+33698854,18/05/2015,"Newport, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+34885144,03/06/2015,"Doonside, Australia",I'm 60 years of age and retired enjoying playing golf every week. I'm married and two grown kids and grand son.,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+50481769,03/12/2015,"South Coogee, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+106230665,05/12/2016,"Botany, Australia",Looking to rent a room out in our 2bedroom apartment which is brand new. Please note this is not a party house. ,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+136977652,25/06/2017,"Narwee, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+156135555,25/10/2017,"Siheung-si, South Korea",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+376796877,23/11/2020,"Collaroy, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+384135377,11/01/2021,"Wentworth Point, Australia",,N/A,,,FALSE,,1,['email'],TRUE,TRUE
+133841178,06/06/2017,"Camperdown, Australia",,N/A,,100,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+73709230,24/05/2016,"Darling Point, Australia","Professional who is calm and happy to share the apartment. I am busy and often out walking and running errands.  When the social distancing eases I hope to return to volunteer as an SRE teacher teaching meditation to primary school students with the NSW Education Department.   Sometimes my weekends are chilled and others are very packed and I am out and about.  I am fair, considerate and live a balanced life.  I keep to myself and happy to share a vino if that's what suits ",N/A,,0,FALSE,Darling Point,1,"['email', 'phone']",TRUE,FALSE
+25609460,04/01/2015,"Bilgola Plateau, Australia",,N/A,,60,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+137652385,29/06/2017,"Carlton, Australia",,N/A,,83,FALSE,,3,['phone'],TRUE,TRUE
+35665898,12/06/2015,"Palm Beach, Australia","We run a Kombiexperience or vehicle hire business especially catering to Weddings, tours and transport in and around Palm beach . A perfect compliment to ""doing something you enjoy so you don't have to work another day in your life"".  We have now opened our lovely little private studio so people like you can enjoy having  a special expereince in Palm beach. My passions are surfing , Kombi's and sport. Come stay with us and have a happy day.",N/A,,96,FALSE,Palm Beach,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+1099724,02/09/2011,"Elizabeth Bay, Australia",Single male likes to travel happy to let out my apartment at certain times of the year.,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+10575181,11/12/2013,"Waitara, Australia","I have a large 3bedroom unit conveniently located in Waitara. It is less than a 5 minute walk to Waitara Railway Station and an 8 minute walk to Hornsby Westfield. 
+It takes about 35mins by train to get to Sydney CBD. 
+The cricket oval and sports centre (PCYC and tennis courts) are just behind the unit. Hornsby Olympic Pool is 15 minutes walk. 
+The unit itself is clean, modern and has a large outdoor entertaining area (3x10m).",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+17538732,02/07/2014,"Kellyville Ridge, Australia","Female from Australia. Make up artist by profession. Mature minded. Clean and tidy person. Outgoing, passionate and a people person.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+22346723,09/10/2014,"Gold Coast, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+23308487,03/11/2014,"Neutral Bay, Australia","Grandmother to 7 soon to be 8 grandchildren…. Still working and transitioning to a new phase of my life. 
+Life motto is to work for a purpose not lots of money.  Love travelling.  Favourite times:  Walking in Nepal Peru Dolomites Pyrenees.  Camping in Oman & France.  Dog sledding in Sweden.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+24460143,03/12/2014,"Maroubra, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+31616519,20/04/2015,"Jamisontown, Australia","We have traveled extensively throughout the U.S.A. and have stayed at some amazing places including New York, Washington DC, Boston, and parts of Canada.
+Places we like to relaxed are Thailand, and once a year we take our family dog to Noosa for the Dog Surfing she loves the beach as do we.
+I like to paint abstract art and enjoy home styling homes for re-sale.
+I represent Sunshine Coast artist Amanda Brookes with her art work and my own being for sale through my Home Gallery .
+We have established a wonderful studio apartment which is shared for use on Airbnb being a little taste of Noosa situated at the foot hills of the Blue Mountains close to the Nepean River, Olympic Rowing Centre , and Penrith White Water Stadium, Panthers Leagues Club, Penrith Ice Skating Rink and much more.
+We love Asian food and do a lot of cooking at home. We also love good wine and a glass or two around the pool or in front of our fire in the winter months.
+Our Moto is ""life is to short so enjoy every moment you can"", we hope those who stay will enjoy our BnB space and out hospitality.
+",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+224116256,04/11/2018,"Wildes Meadow, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+240970579,04/02/2019,"Madrid, Spain",,N/A,,,FALSE,North Bondi,2,"['email', 'phone']",TRUE,TRUE
+257299619,22/04/2019,"Clareville, Australia",,N/A,,,FALSE,Avalon,2,"['email', 'phone']",TRUE,TRUE
+10954847,01/01/2014,"Queenscliff, Australia",,N/A,,100,FALSE,,3,"['email', 'phone', 'work_email']",TRUE,TRUE
+167978858,15/01/2018,"Maroubra, Australia","Hi, I am a French - Australian researcher passionate about the ocean and loving Sydney life-style! ",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+25230698,26/12/2014,"Pyrmont, Australia",,N/A,,0,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+6652149,30/05/2013,"Byron Bay, Australia",,N/A,,25,FALSE,Manly,2,"['email', 'phone']",TRUE,TRUE
+12264225,15/02/2014,"Enschede, Netherlands",,N/A,,25,FALSE,,1,['phone'],TRUE,TRUE
+13723765,31/03/2014,"Waverley, Australia","I am a 38 year old business owner from Australia / Egypt. I am co owner of a boutique design studio called Amber Road specialising in Interior Design and Landscape Architecture.  I love music, books,  learning new things, travelling, taking risks, dancing till the cows come home, exploring new countries and cultures and sipping on some tea on a lazy Sunday arvo.
+
+Ooooh...and I like to keep a really tidy house! ",N/A,,,FALSE,Bondi,1,"['email', 'phone']",TRUE,TRUE
+39085105,20/07/2015,"Bondi Junction, Australia","Hello, I’m Russ and live on Bondi Beach. I’m from the UK originally...but love it here in Aus.
+
+Am keen to keep exploring this great country...thanks for letting me stay at you place!",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+55993351,25/01/2016,"Kenthurst, Australia","I am a businessman who travels extensively with my partner and who spends time both at a city apartment and at a property on the south coast. Subsequently, the house can be booked by individual room or it can be made available exclusively for up to 8 people using the 4 available bedrooms which are otherwise locked if not needed.
+
+The fifth bedroom and walk in wardrobe and en-suite are always locked. ",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+82243998,07/07/2016,"Cremorne Point, Australia","I’m an editor working on a fashion magazine, married and a mother to two girls. Our family enjoy travelling regularly and have a love of old houses. Expect an elegant but homely vibe here ...",N/A,,,FALSE,Cremorne,1,"['email', 'phone']",TRUE,TRUE
+86484019,28/07/2016,"Pymble, Australia","Passionate about family, work and living well.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+115743429,10/02/2017,"Chatswood West, Australia","Semi-frequent traveler, helping my two kids, Charles and Stephanie  manage their first AirBnbs.",N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+213725582,05/09/2018,"Eastwood, Australia",I live and work in Sydney Australia. And I love traveling with my families and friends. ,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+255471064,12/04/2019,"Fort Lauderdale, FL",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+4099655,09/11/2012,"Hornsby, Australia","We are one of the earliest airbnb hosts in sydney and have met hundreds of guests. We enjoy meeting different people with different culture backgrounds. We also travel a lot and have been to many countries such as US, Canada, Kenya, Switzerland, Germany, Italy, UK, New Zealand, Malysia, Thailand, Sigapore, China, Hong Kong, UK, etc. 
+
+Come to stay with us and let's exchange life experience!",N/A,,100,FALSE,,1,['phone'],TRUE,TRUE
+147754856,26/08/2017,"Saint Clair, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+112212836,19/01/2017,"Bronte, Australia",,N/A,,0,FALSE,,1,['phone'],TRUE,TRUE
+112239798,19/01/2017,"São Paulo, Brazil",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+160357529,27/11/2017,"Huntleys Point, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+220618348,14/10/2018,"East Killara, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+255714272,14/04/2019,"Bundeena, Australia",,N/A,,50,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+96511504,24/09/2016,"Ourimbah, Australia",,N/A,,60,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+33801546,20/05/2015,"Willoughby, Australia","Hi, I have a lovely house in Willoughby, and enjoy hosting guests.  I have travelled extensively and love helping travellers experience Sydney.  Happy to advise on anything needed, or leave you in peace.     
+
+I run a business from home, Sterling Results Fitness Club.  
+You can bring your gym and  hiking gear and participate in our fitness or hiking program ( fees may apply). 
+",N/A,,95,TRUE,Willoughby,2,"['email', 'phone', 'work_email']",TRUE,TRUE
+7059922,23/06/2013,"Avalon, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+9898323,09/11/2013,"Narrabeen, Australia","energetic, active and very social. Love music,traveling, snowboarding, meeting new people and relaxing in our perfect beach abode! ",N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+11502502,21/01/2014,"Bronte, Australia","Thanks for visiting my profile-my name is Camilla and I am thrilled that you are considering my 2 bedroom, 1 bathroom single level house “Bronte Beach House” for your upcoming stay to Sydney. Bronte Beach - I love exploring this beautiful beachside location, discovering delicious local eateries and exploring wine bars serving delicious Australian wines! More than happy to give some good recommendations!",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+19007217,27/07/2014,"Bilgola Plateau, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+19312750,01/08/2014,"Bellevue Hill, Australia","Hi I'm Nicole!!
+
+Sydneysider born and bred. I love my City and like to take advantage of the great outdoors whenever possible. You'll find me most days out and about hiking, down the beach, taking in a new exhibition or dancing.   I cant live without music, good coffee, dancing and sunshine. I work in the events industry. Hosting is the best part of my job . I really love meeting new people and showing them my city!",N/A,,,FALSE,,1,['email'],TRUE,TRUE
+45965626,07/10/2015,"Artarmon, Australia",,N/A,,,FALSE,Chatswood,1,"['email', 'phone']",TRUE,TRUE
+58692151,14/02/2016,"Maroubra, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+115535479,08/02/2017,"Maroubra, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+191498747,25/05/2018,"North Turramurra, Australia","I am easy going animal lover. We have 2 Dacdunds and my friend Peter has a very smart friendly Kelpie. 
+We love the outdoors and use the local river at Bobbin Head National Park 10 min away ; in summer for boating,  water skiing and Kayaking. 
+We have 3 spare Kayaks for your perusal. 
+Very close to Pymble Train station and local BP shop and 15 min walk to Pymble Pub.  ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+221155129,17/10/2018,"Istanbul, Turkey",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,FALSE
+8120504,12/08/2013,"Paddington, Australia",,N/A,,100,TRUE,,1,"['email', 'phone']",TRUE,TRUE
+14875933,29/04/2014,"Whitby, Canada","I really enjoy meeting new people - couples, families with children, singles, everyone's welcome! I'm a seasoned traveler, so my hope is that my guest can have a comfortable and enjoyable stay at my place and in Beppu! ",N/A,,100,FALSE,,3,"['email', 'phone']",TRUE,TRUE
+10061304,16/11/2013,"Melbourne, Australia","Your health is your wealth...
+We live our lives rich in happiness and being inspired by all the amazing people that pass through our lives.
+My Partner Adam Bull is the principal dancer of The Australian Ballet where my passion over the years includes sailing, running restaurants, adventure travel, property care and restorations.
+If an opportunity presented we would consider exchanging time in our Sydney Manly beach-front or St Kilda Melbourne apartments as advertised on this site for a residence in a rural setting such as Queenstown New Zealand or similar. Maybe even an apartment in a vibrant city like New York or something totally different like a yacht in The Whitsundays Australia or some other inspiring location.
+Now that would tempt our test buds!
+Safe Travels...
+Guy & Adam",N/A,,0,FALSE,Manly,2,"['email', 'phone']",TRUE,TRUE
+232182381,24/12/2018,"Cronulla, Australia",,N/A,,0,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+27076366,01/02/2015,"Lane Cove West, Australia",,N/A,,75,FALSE,Lane Cove,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+41695410,17/08/2015,"Clovelly, Australia",,N/A,,,FALSE,,2,"['email', 'phone']",TRUE,FALSE
+163282058,19/12/2017,"Cammeray, Australia","Mum to 2 beautiful little boys as well as being a social worker in my professional life! Love meeting new people and am always up for a good chat and a laugh!
+",N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+211079106,22/08/2018,"Bexley, Australia","We provide accommodation 20 kilometers  of  Sydney CBD and Sydney domestic  and international  airport and close to train stations 
+Our location in NSW SYDNEY region is
+Canterbury, Hurstville, Rockdale, Kogarah, Arncliffe
+New south Wales Australia 
+",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+247688530,08/03/2019,"Dundas, Australia",,N/A,,,FALSE,,1,['phone'],TRUE,TRUE
+276231891,15/07/2019,"Hanoi, Vietnam",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+15540123,14/05/2014,"Dover Heights, Australia",,N/A,,100,FALSE,Rose Bay/Dover Heights,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+25015667,19/12/2014,"Burraneer, Australia","I'm a local and lover of the village of Cronulla who looks forward to showing our guests how good we really have it here. Sssshhhh, don't tell anyone! ",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+309356740,13/11/2019,"Seaforth, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+559169759,28/01/2024,"Bilgola Plateau, Australia","Former QANTAS hostess. Travelled the world so I know what it is like to welcomed to an abode.   Privacy respected but humour on demand !!!
+Love to hear your stories. I have been told it is a one in a million property with bird life in a tropical extensive garden with heated pool for your relaxation.  Very quiet and private.",N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+303764438,21/10/2019,"Clareville, Australia",,N/A,,50,FALSE,Avalon,1,['phone'],TRUE,TRUE
+3335907,22/08/2012,"Clovelly, Australia",Hey my name is Dan and I am a Filmmaker. Hiker. Father of two.,N/A,,80,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+13970930,06/04/2014,"Revesby, Australia","I'm an enthusiastic food and wine lover, and I adore my vegetable garden and backyard hens! My daughter, partner and I love travelling and have been all over the world - most itineraries are driven by the food... my partner and my kids and I love hosting guests in our suburban garden apartment. We like to provide all the comforts of home.",N/A,,98,TRUE,Revesby,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+11005565,04/01/2014,"Perth, Australia","Hi, I'm Monique a busy stay at home mother of 4 children.  I love food, travel, family and friends.  I'm enjoying being a host and meeting people from all around the world without having to leave my neighbourhood!  All my guests so far have been wonderful.",N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+14380094,16/04/2014,"Waterloo, Australia",F,N/A,,,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+18224092,16/07/2014,"Cremorne, Australia",,N/A,,,FALSE,North Bondi,1,['phone'],TRUE,TRUE
+31839920,24/04/2015,"Forest Lodge, Australia","Tall, serious, Virgo, ",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+84847234,20/07/2016,"Brooklyn, Australia","IM deaf and im 42 year old man  very clean and don't do any party   i just love pool and water, or beach... I love swimming and do like private most of the time i like to travel alone or with my friend sometimes depend ...i love to be near food shop where i can cook at home  do not like take away ... because i am chef :)",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+99576003,14/10/2016,"Parklea, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+229913592,09/12/2018,"Katoomba, Australia",,N/A,,,FALSE,Bondi Beach,2,['email'],TRUE,TRUE
+243957865,18/02/2019,"Lidcombe, Australia","I’m a cello teacher and spend my spare time visiting art galleries. 
+
+I have visited over 800 different galleries across Sydney, Melbourne, Brisbane, Adelaide, Tasmania, Seoul, Tokyo, Shanghai, Beijing, New York, LA, San Fran and Palm Springs. 
+
+I’m always happy to exchange food recommendations.",N/A,,,FALSE,Lidcombe,3,"['email', 'phone']",TRUE,TRUE
+283041803,05/08/2019,"Balmain East, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+34015597,23/05/2015,"Bondi, Australia",,N/A,,100,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+157718981,06/11/2017,"Woollahra, Australia","## Don't book here. call us direct ## The Hughenden is a gracious Victorian residence, which is associated with Australia’s first philosopher, Barzillai Quaife. It was iy Dr Frederick Harrison Quaife in 1876 and Street at this now a conservation area with  Victorian architecture in Australia. 
+
+*** Reception is open from 7am to 3pm daily. If you are arriving later please contact Reception on o9 93 63 48 63 to arrange a for after hours access. ***",N/A,,100,FALSE,,5,"['email', 'phone', 'work_email']",TRUE,TRUE
+514993074,16/05/2023,"Camden, Australia",,N/A,,100,FALSE,,1,['phone'],FALSE,TRUE
+370818270,05/10/2020,"Narraweena, Australia",,N/A,,50,FALSE,,1,"['email', 'phone', 'work_email']",TRUE,TRUE
+313610134,01/12/2019,"Northmead, Australia",,N/A,,64,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+21629061,22/09/2014,"North Willoughby, Australia","Married to Simone with 2 young adult sons.  Have worked in the mental health field for many years and plan to continue in this challenging but rewarding profession.  My interest in the natural environment, which includes Kayaking, resulted in the privilege of discovering The Retreat at Coasters.",N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
+26504605,21/01/2015,Colombia,,N/A,,,FALSE,,2,"['email', 'phone']",TRUE,TRUE
+41529057,15/08/2015,"Barcelona, Spain",,N/A,,,FALSE,Bondi Junction,1,"['email', 'phone']",TRUE,TRUE
+60704636,28/02/2016,"Victoria, Australia",,N/A,,,FALSE,,1,"['email', 'phone']",TRUE,TRUE
