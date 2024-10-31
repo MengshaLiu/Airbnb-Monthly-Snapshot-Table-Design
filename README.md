@@ -22,7 +22,7 @@ This Data model comprises of a central fact table, monthly_listing_summary_snaps
 
 ## Implementation on Google BigQuery
 #### Before Start
-The four .csv files inside the dataset folder need to be imported into BigQuery.  
+The two source files (calender.csv.gz and listings.csv.gz) inside the dataset folder must be imported into BigQuery.  
 #### Create table and insert data for month_dim
 
 ```sql
@@ -66,52 +66,9 @@ CREATE TABLE IF NOT EXISTS `my-data-project-65962.airbnb_listings_AU_2024.listin
   license STRING,
   PRIMARY KEY(listing_id) NOT ENFORCED
 );
-
-
-INSERT INTO `my-data-project-65962.airbnb_listings_AU_2024.listing_dim`(
-  listing_id, 
-  listing_name, listing_description, neighbourhood_overview,
-  property_type, 
-  room_type, 
-  accommodates,
-  bathrooms,
-  bedrooms,
-  beds,
-  minimum_nights,
-  maximum_nights,
-  review_scores_rating,
-  review_scores_accuracy,
-  review_scores_cleanliness,
-  review_scores_checkin,
-  review_scores_communication,
-  review_scores_value,
-  instant_bookable,
-  license) 
-SELECT 
-  id AS listing_id, 
-  name AS listing_name, 
-  description AS listing_description, 
-  neighborhood_overview AS neighbourhood_overview,
-  property_type, 
-  room_type,
-  accommodates,
-  bathrooms,
-  bedrooms,
-  beds,
-  minimum_nights,
-  maximum_nights,
-  review_scores_rating,
-  review_scores_accuracy,
-  review_scores_cleanliness,
-  review_scores_checkin,
-  review_scores_communication,
-  review_scores_value,
-  instant_bookable,
-  license
-FROM `my-data-project-65962.airbnb_listings_AU_2024.listings`;
 ```
 
-#### Create table and insert data for host_dim
+#### Create table for host_dim
 ```sql
 CREATE TABLE IF NOT EXISTS `my-data-project-65962.airbnb_listings_AU_2024.host_dim` (
   host_id INT64 NOT NULL,
@@ -130,38 +87,7 @@ CREATE TABLE IF NOT EXISTS `my-data-project-65962.airbnb_listings_AU_2024.host_d
   PRIMARY KEY(host_id) NOT ENFORCED
 );
 
-INSERT INTO `my-data-project-65962.airbnb_listings_AU_2024.host_dim`(
-  host_id,
-  host_since,
-  host_location,
-  host_about,
-  host_response_time,
-  host_response_rate, 
-  host_acceptance_rate,
-  host_is_superhost,
-  host_neighbourhood,
-  host_listings_count, 
-  host_verifications,
-  host_has_profile_pic, 
-  host_identity_verified
-)
-SELECT distinct host_id,
-  host_since,
-  host_location,
-  host_about,
-  host_response_time,
-  CASE WHEN host_response_rate = 'N/A' THEN NULL
-        ELSE CAST(SUBSTRING(host_response_rate,1, LENGTH(host_response_rate)-1) AS INT64) 
-        END AS host_response_rate, 
-  CASE WHEN host_acceptance_rate = 'N/A' THEN NULL
-        ELSE CAST(SUBSTRING(host_acceptance_rate,1, LENGTH(host_acceptance_rate)-1) AS INT64) 
-        END AS host_acceptance_rate,
-  host_is_superhost,
-  host_neighbourhood,
-  host_listings_count, 
-  host_verifications,
-  host_has_profile_pic, 
-  host_identity_verified FROM `my-data-project-65962.airbnb_listings_AU_2024.listings`;
+
   ```
 #### Create table and insert data for neighbourhood_dim
 ```sql
@@ -170,21 +96,14 @@ CREATE OR REPLACE TABLE `my-data-project-65962.airbnb_listings_AU_2024.neighbour
   city STRING,
   country STRING,
   PRIMARY KEY(neighbourhood) NOT ENFORCED
-);
-INSERT INTO `my-data-project-65962.airbnb_listings_AU_2024.neighbourhood_dim`(
-  neighbourhood,
-  city,
-  country
-)
-SELECT 
-  neighbourhood,
-  city,
-  country
-FROM `my-data-project-65962.airbnb_listings_AU_2024.neighbourhoods`;
 ```
 #### Create table and insert data for monthly_listing_summary_snapshots
-``` sql
-CREATE OR REPLACE TABLE `my-data-project-65962.airbnb_listings_AU_2024.listing_monthly_summary_snapshots`(
+``` SQL
+# Declair the current_load_time varieble. This is useful whenthere is a event of failure, we know the point in time we have to restart the process from.
+DECLARE current_load_time DATE DEFAULT CURRENT_DATE();
+
+#Create schema for staging table
+CREATE OR REPLACE TABLE `my-data-project-65962.airbnb_listings_AU_2024.monthly_listing_summary_staging`(
 listing_id INT64 NOT NULL,
 host_id INT64 NOT NULL,
 neighbourhood STRING NOT NULL,
@@ -192,49 +111,64 @@ month_id STRING NOT NULL,
 monthly_income FLOAT64,
 monthly_occupancy INT64,
 monthly_occupancy_rate FLOAT64,
-PRIMARY KEY(listing_id,host_id,neighbourhood, month_id) NOT ENFORCED,
-FOREIGN KEY(listing_id) REFERENCES airbnb_listings_AU_2024.listing_dim(listing_id) NOT ENFORCED,
-FOREIGN KEY(host_id) REFERENCES airbnb_listings_AU_2024.host_dim(host_id) NOT ENFORCED,
-FOREIGN KEY(neighbourhood) REFERENCES airbnb_listings_AU_2024.neighbourhood_dim(neighbourhood) NOT ENFORCED,
-FOREIGN KEY(month_id) REFERENCES airbnb_listings_AU_2024.month_dim(month_id) NOT ENFORCED
+load_time DATE
 );
 
-INSERT INTO my-data-project-65962.airbnb_listings_AU_2024.listing_monthly_summary_snapshots(
+#Populate data from source tables and insert value into staging table
+#Assume that the monthly_listing_snapshots fact table is updated monthly at the start of every month
+
+INSERT INTO `airbnb_listings_AU_2024.monthly_listing_summary_staging` (
   listing_id,
   host_id,
   neighbourhood,
   month_id,
   monthly_income,
   monthly_occupancy,
-  monthly_occupancy_rate
+  monthly_occupancy_rate,
+  load_time
 )
-with last_day AS (
-  SELECT 
-    EXTRACT(DAY FROM LAST_DAY(min(date))) AS last_day, 
-    EXTRACT(MONTH FROM date) as month, 
-    EXTRACT(YEAR FROM date) as year 
-  FROM `my-data-project-65962.airbnb_listings_AU_2024.calendar` 
-    GROUP BY month, year),
-listing_calendar as (
+with calendar_monthly AS (
   SELECT 
     listing_id, 
     EXTRACT(YEAR FROM date) AS year, 
     EXTRACT(MONTH FROM date) AS month, 
-    COUNT(*) AS monthly_occupancy, 
+    COUNT(*) AS monthly_occupancy,
+    ROUND(COUNT(*)/EXTRACT(DAY FROM LAST_DAY(min(date))),2) AS monthly_occupancy_rate,  
     SUM(price) AS monthly_income
-  FROM `my-data-project-65962.airbnb_listings_AU_2024.calendar` 
-  WHERE available = false
+  FROM `my-data-project-65962.airbnb_listings_AU_2024.calendar` c
+  WHERE available = false AND EXTRACT(YEAR FROM date) = EXTRACT( YEAR FROM CURRENT_DATE()) AND EXTRACT(MONTH FROM date) = EXTRACT( MONTH FROM CURRENT_DATE())-1
   GROUP BY listing_id, year, month)
 SELECT 
-  lc.listing_id, 
-  lt.host_id,
-  lt.neighbourhood_cleansed AS neighbourhood,
-  CONCAT(lc.year,"-", lc.month) AS month_id,
-  lc.monthly_income, 
-  lc.monthly_occupancy, 
-  lc.monthly_occupancy/ld.last_day AS monthly_occupacy_rate 
-FROM listing_calendar lc
-LEFT JOIN last_day ld ON lc.month=ld.month AND lc.year=ld.year
-LEFT JOIN `my-data-project-65962.airbnb_listings_AU_2024.listings` lt ON lc.listing_id = lt.id
-'''
+  l.id AS listing_id, 
+  l.host_id,
+  l.neighbourhood_cleansed AS neighbourhood,
+  COALESCE(m.month_id, CONCAT(EXTRACT(YEAR FROM current_date()),'-',(EXTRACT(MONTH FROM current_date())))) AS month_id,
+  COALESCE(c.monthly_income,0) AS monthly_income, 
+  COALESCE(c.monthly_occupancy,0) AS monthly_occupancy,
+  COALESCE(c.monthly_occupancy_rate,0) AS monthly_occupancy_rate,
+  current_load_time
+FROM `airbnb_listings_AU_2024.listings` l
+LEFT JOIN calendar_monthly c
+ON l.id = c.listing_id
+LEFT JOIN `my-data-project-65962.airbnb_listings_AU_2024.month_dim` m
+ON m.year = c.year AND m.month = c.month;
 
+#Inser value into monthly_snapshots fact table
+INSERT INTO `airbnb_listings_AU_2024.listing_monthly_summary_snapshots`(
+  listing_id,
+  host_id,
+  neighbourhood,
+  month_id,
+  monthly_income,
+  monthly_occupancy,
+  monthly_occupancy_rate,
+  load_time
+)
+SELECT *
+FROM `airbnb_listings_AU_2024.monthly_listing_summary_staging` s
+WHERE NOT EXISTS(
+  SELECT listing_id 
+  FROM `airbnb_listings_AU_2024.listing_monthly_summary_snapshots` f 
+  WHERE f.listing_id = s.listing_id AND f.month_id=s.month_id
+);
+```
