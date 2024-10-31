@@ -63,7 +63,7 @@ CREATE TABLE IF NOT EXISTS `airbnb_listings_AU_2024.listing_dim` (
   PRIMARY KEY(listing_id) NOT ENFORCED
 );
 ```
-
+#### Insert sample data(listing_dim, host_dim, month_dim, neighbourhood_dim) into their dimension table accordingly.
 #### Create table for host_dim
 ```sql
 CREATE TABLE IF NOT EXISTS `airbnb_listings_AU_2024.host_dim` (
